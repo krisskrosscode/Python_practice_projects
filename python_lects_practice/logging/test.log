@@ -1,0 +1,29 @@
+2022-07-25 17:35:48,395 this is msg for error
+2022-07-25 17:44:03,202 this is msg for error
+2022-07-25 17:45:16,769 this is msg for error
+2022-07-25 18:00:19,937 error has occured while dividing by zero
+2022-07-25 18:00:19,939 division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_44670/1491997734.py", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2022-07-25 18:00:46,333 error has occured while dividing by zero
+2022-07-25 18:00:46,334 division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_44670/1491997734.py", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2022-07-25 18:01:20,608 error has occured while dividing by zero
+2022-07-25 18:01:20,616 division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_44670/1491997734.py", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2022-07-25 18:50:33,394 this is my error log
+2022-07-25 18:50:33,396 this is my exception log
+NoneType: None
+2022-07-25 18:50:33,397 this is my critical log 
+2022-07-25 18:54:07,424 this is my error log
+2022-07-25 18:54:07,425 this is my exception log
+NoneType: None
+2022-07-25 18:54:07,426 this is my critical log 

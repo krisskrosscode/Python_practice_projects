@@ -1,0 +1,26 @@
+2022-07-26 22:31:19,583 Initiated file
+2022-07-26 22:31:19,584 read filenew_file5.txt
+2022-07-26 22:32:58,521 Initiated file
+2022-07-26 22:32:58,522 read file new_file5.txt
+2022-07-26 22:34:02,700 Initiated file
+2022-07-26 22:34:02,702 read file new_file5.txt
+2022-07-26 22:34:57,767 Initiated file
+2022-07-26 22:34:57,767 Appended to file This is the nth time i am appending
+
+
+2022-07-26 22:34:57,768 read file new_file5.txt
+2022-07-26 22:36:07,190 Initiated file
+2022-07-26 22:36:07,191 -----
+Appended to file This is the nth time i am appending
+-------
+2022-07-26 22:36:07,192 read file new_file5.txt
+2022-07-26 22:36:31,172 Initiated file
+2022-07-26 22:36:31,173 
+-----Appended to file This is the nth time i am appending-------
+
+2022-07-26 22:36:31,174 read file new_file5.txt
+2022-07-26 22:37:10,893 Initiated file
+2022-07-26 22:37:10,893 
+-----Appended to file: "This is the nth time i am appending"-------
+
+2022-07-26 22:37:10,894 read file new_file5.txt

@@ -1,0 +1,1294 @@
+S No.,Date,App Name,Usage (in Seconds),Launch Count,is Monitoring,is SystemApp,Package Name
+1,2022/07/15,PrepLadder,9175,32,Yes,No,com.prepladder.learningapp
+2,2022/07/15,Gboard,1,3,Yes,No,com.google.android.inputmethod.latin
+3,2022/07/21,Cricbuzz,256,6,Yes,No,com.cricbuzz.android
+4,2022/07/20,Relevel,157,3,Yes,No,com.relevel
+5,2022/07/15,Wallpaper services,1,1,No,Yes,com.samsung.android.dynamiclock
+6,2022/07/21,Relevel,66,1,Yes,No,com.relevel
+7,2022/07/15,My Files,103,13,Yes,No,com.sec.android.app.myfiles
+8,2022/07/18,My Files,143,3,Yes,No,com.sec.android.app.myfiles
+9,2022/07/21,WhatsApp,462,13,Yes,No,com.whatsapp
+10,2022/07/20,WhatsApp,725,19,Yes,No,com.whatsapp
+11,2022/07/16,Relevel,66,1,Yes,No,com.relevel
+12,2022/07/19,Relevel,98,4,Yes,No,com.relevel
+13,2022/07/18,Relevel,149,4,Yes,No,com.relevel
+14,2022/07/21,One UI Home,776,142,No,Yes,com.sec.android.app.launcher
+15,2022/07/20,One UI Home,582,104,No,Yes,com.sec.android.app.launcher
+16,2022/07/15,Messages,42,2,Yes,No,com.samsung.android.messaging
+17,2022/07/19,One UI Home,949,126,No,Yes,com.sec.android.app.launcher
+18,2022/07/19,Cricbuzz,830,13,Yes,No,com.cricbuzz.android
+19,2022/07/20,PrepLadder,127,1,Yes,No,com.prepladder.learningapp
+20,2022/07/18,One UI Home,1016,151,No,Yes,com.sec.android.app.launcher
+21,2022/07/18,Cricbuzz,766,10,Yes,No,com.cricbuzz.android
+22,2022/07/17,One UI Home,878,127,No,Yes,com.sec.android.app.launcher
+23,2022/07/16,One UI Home,1627,195,No,Yes,com.sec.android.app.launcher
+24,2022/07/15,One UI Home,1929,357,No,Yes,com.sec.android.app.launcher
+25,2022/07/15,Chrome,2894,43,Yes,No,com.android.chrome
+26,2022/07/15,Relevel,3,1,Yes,No,com.relevel
+27,2022/07/16,Chrome,692,10,Yes,No,com.android.chrome
+28,2022/07/17,Chrome,1574,27,Yes,No,com.android.chrome
+29,2022/07/21,1DM,3,1,Yes,No,idm.internet.download.manager
+30,2022/07/17,Cricbuzz,1169,17,Yes,No,com.cricbuzz.android
+31,2022/07/18,Chrome,2314,25,Yes,No,com.android.chrome
+32,2022/07/16,Cricbuzz,462,11,Yes,No,com.cricbuzz.android
+33,2022/07/19,Chrome,739,13,Yes,No,com.android.chrome
+34,2022/07/15,Cricbuzz,330,9,Yes,No,com.cricbuzz.android
+35,2022/07/20,Chrome,1370,18,Yes,No,com.android.chrome
+36,2022/07/20,Cricbuzz,588,6,Yes,No,com.cricbuzz.android
+37,2022/07/21,Chrome,662,17,Yes,No,com.android.chrome
+38,2022/07/16,LinkedIn,830,8,Yes,No,com.linkedin.android
+39,2022/07/15,LinkedIn,530,1,Yes,No,com.linkedin.android
+40,2022/07/15,Find My Device,42,2,Yes,No,com.google.android.apps.adm
+41,2022/07/15,WAMR,1,1,Yes,No,com.drilens.wamr
+42,2022/07/15,Call settings,25,1,No,Yes,com.samsung.android.app.telephonyui
+43,2022/07/17,Camera,56,4,Yes,No,com.sec.android.app.camera
+44,2022/07/18,Camera,4,1,Yes,No,com.sec.android.app.camera
+45,2022/07/20,Gmail,136,5,Yes,No,com.google.android.gm
+46,2022/07/19,YouTube Vanced,65,2,Yes,No,com.vanced.android.youtube
+47,2022/07/18,YouTube Vanced,77,2,Yes,No,com.vanced.android.youtube
+48,2022/07/21,Keep notes,34,2,Yes,No,com.google.android.keep
+49,2022/07/15,Camera,102,9,Yes,No,com.sec.android.app.camera
+50,2022/07/17,Language Curry,696,5,Yes,No,com.languagecurry
+51,2022/07/16,Camera,109,7,Yes,No,com.sec.android.app.camera
+52,2022/07/19,YouTube Music,33,3,Yes,No,com.vanced.android.apps.youtube.music
+53,2022/07/15,YouTube Music,149,6,Yes,No,com.vanced.android.apps.youtube.music
+54,2022/07/20,YouTube Vanced,1208,8,Yes,No,com.vanced.android.youtube
+55,2022/07/16,RailYatri,4,1,Yes,No,com.railyatri.in.mobile
+56,2022/07/15,RailYatri,926,12,Yes,No,com.railyatri.in.mobile
+57,2022/07/15,Accessibility,270,8,Yes,No,com.samsung.accessibility
+58,2022/07/21,YouTube Vanced,2277,8,Yes,No,com.vanced.android.youtube
+59,2022/07/16,Messages,3,1,Yes,No,com.samsung.android.messaging
+60,2022/07/15,Settings,550,51,Yes,No,com.android.settings
+61,2022/07/18,Messages,11,3,Yes,No,com.samsung.android.messaging
+62,2022/07/16,Settings,125,11,Yes,No,com.android.settings
+63,2022/07/19,Messages,52,2,Yes,No,com.samsung.android.messaging
+64,2022/07/17,Settings,34,9,Yes,No,com.android.settings
+65,2022/07/18,Settings,25,5,Yes,No,com.android.settings
+66,2022/07/19,Settings,58,11,Yes,No,com.android.settings
+67,2022/07/18,Gmail,49,4,Yes,No,com.google.android.gm
+68,2022/07/20,Camera,30,5,Yes,No,com.sec.android.app.camera
+69,2022/07/17,Gmail,7,1,Yes,No,com.google.android.gm
+70,2022/07/21,Camera,3,2,Yes,No,com.sec.android.app.camera
+71,2022/07/21,Language Curry,178,1,Yes,No,com.languagecurry
+72,2022/07/16,Gmail,47,1,Yes,No,com.google.android.gm
+73,2022/07/20,WAMR,12,1,Yes,No,com.drilens.wamr
+74,2022/07/15,Gmail,52,1,Yes,No,com.google.android.gm
+75,2022/07/21,WAMR,15,2,Yes,No,com.drilens.wamr
+76,2022/07/21,Gboard,0,4,Yes,No,com.google.android.inputmethod.latin
+77,2022/07/19,Gmail,87,2,Yes,No,com.google.android.gm
+78,2022/07/19,WhatsApp,698,20,Yes,No,com.whatsapp
+79,2022/07/20,Messages,137,6,Yes,No,com.samsung.android.messaging
+80,2022/07/18,WhatsApp,932,26,Yes,No,com.whatsapp
+81,2022/07/21,Messages,930,29,Yes,No,com.samsung.android.messaging
+82,2022/07/17,WhatsApp,790,20,Yes,No,com.whatsapp
+83,2022/07/16,WhatsApp,1899,51,Yes,No,com.whatsapp
+84,2022/07/17,YouTube Vanced,2285,5,Yes,No,com.vanced.android.youtube
+85,2022/07/15,WhatsApp,2995,67,Yes,No,com.whatsapp
+86,2022/07/16,YouTube Vanced,29,1,Yes,No,com.vanced.android.youtube
+87,2022/07/15,YouTube Vanced,1184,2,Yes,No,com.vanced.android.youtube
+88,2022/07/21,MyJio,291,4,Yes,No,com.jio.myjio
+89,2022/07/20,MyJio,2,2,Yes,No,com.jio.myjio
+90,2022/07/20,Physics Wallah,72,1,Yes,No,xyz.penpencil.physicswala
+91,2022/07/15,SoundAlive,23,5,No,Yes,com.sec.android.app.soundalive
+92,2022/07/20,Gallery,16,5,Yes,No,com.sec.android.gallery3d
+93,2022/07/15,Finder,43,12,Yes,No,com.samsung.android.app.galaxyfinder
+94,2022/07/16,Finder,47,6,Yes,No,com.samsung.android.app.galaxyfinder
+95,2022/07/20,Naukri.com,3,1,Yes,No,naukriApp.appModules.login
+96,2022/07/19,Calculator,9,1,Yes,No,com.sec.android.app.popupcalculator
+97,2022/07/21,Gallery,28,3,Yes,No,com.sec.android.gallery3d
+98,2022/07/15,Samsung text-to-speech engine,5,2,No,Yes,com.samsung.SMT
+99,2022/07/17,JioCloud,412,4,Yes,No,jio.cloud.drive
+100,2022/07/15,Keep notes,1,1,Yes,No,com.google.android.keep
+101,2022/07/18,Files by Google,60,3,Yes,No,com.google.android.apps.nbu.files
+102,2022/07/21,Video Player,9159,4,No,Yes,com.samsung.android.video
+103,2022/07/19,Finder,18,6,Yes,No,com.samsung.android.app.galaxyfinder
+104,2022/07/17,Finder,19,6,Yes,No,com.samsung.android.app.galaxyfinder
+105,2022/07/18,Keep notes,216,10,Yes,No,com.google.android.keep
+106,2022/07/18,Finder,36,12,Yes,No,com.samsung.android.app.galaxyfinder
+107,2022/07/19,Contacts,11,1,Yes,No,com.samsung.android.app.contacts
+108,2022/07/16,Contacts,21,2,Yes,No,com.samsung.android.app.contacts
+109,2022/07/20,Finder,2,1,Yes,No,com.samsung.android.app.galaxyfinder
+110,2022/07/21,Google,42,3,Yes,No,com.google.android.googlequicksearchbox
+111,2022/07/17,Contacts,28,1,Yes,No,com.samsung.android.app.contacts
+112,2022/07/21,Finder,34,13,Yes,No,com.samsung.android.app.galaxyfinder
+113,2022/07/19,Naukri.com,338,4,Yes,No,naukriApp.appModules.login
+114,2022/07/18,Naukri.com,23,2,Yes,No,naukriApp.appModules.login
+115,2022/07/15,System UI,40,2,No,Yes,com.android.systemui
+116,2022/07/17,Package installer,10,2,No,Yes,com.google.android.packageinstaller
+117,2022/07/16,Package installer,1,1,No,Yes,com.google.android.packageinstaller
+118,2022/07/16,Google,31,2,Yes,No,com.google.android.googlequicksearchbox
+119,2022/07/19,Permission controller,2,2,No,Yes,com.google.android.permissioncontroller
+120,2022/07/21,Android System,3,1,No,Yes,android
+121,2022/07/20,Android System,2,1,No,Yes,android
+122,2022/07/15,Google,71,7,Yes,No,com.google.android.googlequicksearchbox
+123,2022/07/18,Google,9,2,Yes,No,com.google.android.googlequicksearchbox
+124,2022/07/18,Where is my Train,4,1,Yes,No,com.whereismytrain.android
+125,2022/07/15,Where is my Train,2567,77,Yes,No,com.whereismytrain.android
+126,2022/07/16,Where is my Train,269,15,Yes,No,com.whereismytrain.android
+127,2022/07/15,Permission controller,16,7,No,Yes,com.google.android.permissioncontroller
+128,2022/07/17,Permission controller,3,2,No,Yes,com.google.android.permissioncontroller
+129,2022/07/16,Permission controller,3,4,No,Yes,com.google.android.permissioncontroller
+130,2022/07/21,Package installer,13,1,No,Yes,com.google.android.packageinstaller
+131,2022/07/20,LinkedIn,758,1,Yes,No,com.linkedin.android
+132,2022/07/18,Android System,8,3,No,Yes,android
+133,2022/07/17,Android System,5,2,No,Yes,android
+134,2022/07/19,Android System,2,3,No,Yes,android
+135,2022/07/16,Android System,35,7,No,Yes,android
+136,2022/07/15,Android System,1,1,No,Yes,android
+137,2022/07/21,Twitter,1152,12,Yes,No,com.twitter.android
+138,2022/07/20,Twitter,852,13,Yes,No,com.twitter.android
+139,2022/07/19,Gallery,5,1,Yes,No,com.sec.android.gallery3d
+140,2022/07/21,Permission controller,1,3,No,Yes,com.google.android.permissioncontroller
+141,2022/07/16,Twitter,2875,25,Yes,No,com.twitter.android
+142,2022/07/15,Twitter,2021,38,Yes,No,com.twitter.android
+143,2022/07/18,Twitter,1407,17,Yes,No,com.twitter.android
+144,2022/07/17,Twitter,1758,25,Yes,No,com.twitter.android
+145,2022/07/19,MyJio,4,1,Yes,No,com.jio.myjio
+146,2022/07/19,Twitter,2133,21,Yes,No,com.twitter.android
+147,2022/07/15,MyJio,324,7,Yes,No,com.jio.myjio
+148,2022/07/15,Gallery,916,14,Yes,No,com.sec.android.gallery3d
+149,2022/07/16,Gallery,61,4,Yes,No,com.sec.android.gallery3d
+150,2022/07/17,Gallery,83,6,Yes,No,com.sec.android.gallery3d
+151,2022/07/15,IRCTC Rail Connect,185,6,Yes,No,cris.org.in.prs.ima
+152,2022/07/15,Paytm,90,2,Yes,No,net.one97.paytm
+153,2022/07/15,Photos,111,1,Yes,No,com.google.android.apps.photos
+154,2022/07/16,Paytm,123,9,Yes,No,net.one97.paytm
+155,2022/07/17,Paytm,83,8,Yes,No,net.one97.paytm
+156,2022/07/18,Paytm,28,3,Yes,No,net.one97.paytm
+157,2022/07/19,Paytm,43,6,Yes,No,net.one97.paytm
+158,2022/07/21,Google Play services,9,2,No,Yes,com.google.android.gms
+159,2022/07/15,Google Play services,16,3,No,Yes,com.google.android.gms
+160,2022/07/16,Files,4,3,No,Yes,com.google.android.documentsui
+161,2022/07/17,Google Play services,2,1,No,Yes,com.google.android.gms
+162,2022/07/21,Sunrise,9,1,Yes,No,mobi.lockdown.sunrise
+163,2022/07/19,Google Play services,1,1,No,Yes,com.google.android.gms
+164,2022/07/15,Wallpaper and style,25,3,No,Yes,com.samsung.android.app.dressroom
+165,2022/07/19,Files,8,4,No,Yes,com.google.android.documentsui
+166,2022/07/15,Separate app sound,24,1,No,Yes,com.samsung.android.setting.multisound
+167,2022/07/20,Paytm,190,8,Yes,No,net.one97.paytm
+168,2022/07/15,Settings Suggestions,40,11,No,Yes,com.android.settings.intelligence
+169,2022/07/15,Telegram,124,9,Yes,No,org.telegram.messenger
+170,2022/07/15,Video Player,2519,10,No,Yes,com.samsung.android.video
+171,2022/07/18,Telegram,124,4,Yes,No,org.telegram.messenger
+172,2022/07/19,Telegram,21,1,Yes,No,org.telegram.messenger
+173,2022/07/16,Telegram,85,1,Yes,No,org.telegram.messenger
+174,2022/07/17,Telegram,39,2,Yes,No,org.telegram.messenger
+175,2022/07/15,Sunrise,159,7,Yes,No,mobi.lockdown.sunrise
+176,2022/07/17,Sunrise,91,1,Yes,No,mobi.lockdown.sunrise
+177,2022/07/18,Sunrise,90,2,Yes,No,mobi.lockdown.sunrise
+178,2022/07/15,Maps,148,4,Yes,No,com.google.android.apps.maps
+179,2022/07/15,Apps,10,1,No,Yes,com.samsung.android.app.appsedge
+180,2022/07/19,The Hindu ePaper,30,2,Yes,No,com.epaper.thehindu.android
+181,2022/07/18,Maps,5,2,Yes,No,com.google.android.apps.maps
+182,2022/07/21,Pikashow,71,6,Yes,No,com.offshore.pikachu
+183,2022/07/16,Maps,1088,17,Yes,No,com.google.android.apps.maps
+184,2022/07/16,Phone calls,0,1,No,Yes,com.android.server.telecom
+185,2022/07/19,Samsung capture,11,1,No,Yes,com.samsung.android.app.smartcapture
+186,2022/07/15,Samsung capture,18,3,No,Yes,com.samsung.android.app.smartcapture
+187,2022/07/21,Swiggy,168,7,Yes,No,in.swiggy.android
+188,2022/07/17,Pikashow,3671,21,Yes,No,com.offshore.pikachu
+189,2022/07/21,Maps,1214,22,Yes,No,com.google.android.apps.maps
+190,2022/07/15,Clock,17,3,Yes,No,com.sec.android.app.clockpackage
+191,2022/07/18,Xodo Docs,217,7,Yes,No,com.xodo.pdf.reader
+192,2022/07/15,Galaxy Themes,16,1,No,Yes,com.samsung.android.themestore
+193,2022/07/19,Xodo Docs,307,7,Yes,No,com.xodo.pdf.reader
+194,2022/07/16,Xodo Docs,251,16,Yes,No,com.xodo.pdf.reader
+195,2022/07/20,Settings,14,4,Yes,No,com.android.settings
+196,2022/07/21,GPay,198,7,Yes,No,com.google.android.apps.nbu.paisa.user
+197,2022/07/20,GPay,36,1,Yes,No,com.google.android.apps.nbu.paisa.user
+198,2022/07/21,Settings,3,2,Yes,No,com.android.settings
+199,2022/07/15,Xodo Docs,1761,19,Yes,No,com.xodo.pdf.reader
+200,2022/07/15,Speech Services by Google,0,2,No,Yes,com.google.android.tts
+201,2022/07/17,Photo Editor,205,1,No,Yes,com.sec.android.mimage.photoretouching
+202,2022/07/15,Photo Editor,122,1,No,Yes,com.sec.android.mimage.photoretouching
+203,2022/07/16,Drive,0,2,Yes,No,com.google.android.apps.docs
+204,2022/07/18,Drive,54,2,Yes,No,com.google.android.apps.docs
+205,2022/07/15,Adapt sound,2,1,No,Yes,com.sec.hearingadjust
+206,2022/07/18,Truecaller,25,2,Yes,No,com.truecaller
+207,2022/07/21,Xodo Docs,40,1,Yes,No,com.xodo.pdf.reader
+208,2022/07/19,Truecaller,20,2,Yes,No,com.truecaller
+209,2022/07/20,Xodo Docs,44,3,Yes,No,com.xodo.pdf.reader
+210,2022/07/15,Truecaller,14,1,Yes,No,com.truecaller
+211,2022/07/19,AccuBattery,159,6,Yes,No,com.digibites.accubattery
+212,2022/07/18,AccuBattery,119,2,Yes,No,com.digibites.accubattery
+213,2022/07/19,GPay,249,12,Yes,No,com.google.android.apps.nbu.paisa.user
+214,2022/07/17,AccuBattery,25,1,Yes,No,com.digibites.accubattery
+215,2022/07/18,GPay,483,8,Yes,No,com.google.android.apps.nbu.paisa.user
+216,2022/07/16,AccuBattery,48,1,Yes,No,com.digibites.accubattery
+217,2022/07/17,GPay,89,5,Yes,No,com.google.android.apps.nbu.paisa.user
+218,2022/07/15,AccuBattery,100,8,Yes,No,com.digibites.accubattery
+219,2022/07/16,GPay,255,12,Yes,No,com.google.android.apps.nbu.paisa.user
+220,2022/07/15,GPay,69,2,Yes,No,com.google.android.apps.nbu.paisa.user
+221,2022/07/20,Truecaller,88,3,Yes,No,com.truecaller
+222,2022/07/17,Call,716,3,Yes,No,com.samsung.android.incallui
+223,2022/07/18,Call,11101,24,Yes,No,com.samsung.android.incallui
+224,2022/07/18,Rapido,25,2,Yes,No,com.rapido.passenger
+225,2022/07/15,Android System Intelligence,18,1,No,Yes,com.google.android.as
+226,2022/07/17,Rapido,1,1,Yes,No,com.rapido.passenger
+227,2022/07/19,Call,3318,23,Yes,No,com.samsung.android.incallui
+228,2022/07/16,Rapido,1235,24,Yes,No,com.rapido.passenger
+229,2022/07/15,Call,378,16,Yes,No,com.samsung.android.incallui
+230,2022/07/16,Call,4017,31,Yes,No,com.samsung.android.incallui
+231,2022/07/15,Rapido,96,2,Yes,No,com.rapido.passenger
+232,2022/07/19,Android System Intelligence,15,1,No,Yes,com.google.android.as
+233,2022/07/21,Google Play Store,73,3,Yes,No,com.android.vending
+234,2022/07/21,AccuBattery,57,2,Yes,No,com.digibites.accubattery
+235,2022/07/21,Phone,44,5,Yes,No,com.samsung.android.dialer
+236,2022/07/20,Phone,37,8,Yes,No,com.samsung.android.dialer
+237,2022/07/18,Uber,119,3,Yes,No,com.ubercab
+238,2022/07/15,Uber,69,1,Yes,No,com.ubercab
+239,2022/07/16,Uber,58,1,Yes,No,com.ubercab
+240,2022/07/19,Phone,174,20,Yes,No,com.samsung.android.dialer
+241,2022/07/16,Phone,228,31,Yes,No,com.samsung.android.dialer
+242,2022/07/15,Phone,37,3,Yes,No,com.samsung.android.dialer
+243,2022/07/15,Device care,131,4,Yes,No,com.samsung.android.lool
+244,2022/07/18,Phone,148,16,Yes,No,com.samsung.android.dialer
+245,2022/07/17,Phone,10,5,Yes,No,com.samsung.android.dialer
+246,2022/07/18,Google Play Store,36,2,Yes,No,com.android.vending
+247,2022/07/20,Call,147,12,Yes,No,com.samsung.android.incallui
+248,2022/07/17,Google Play Store,84,4,Yes,No,com.android.vending
+249,2022/07/21,Call,2425,9,Yes,No,com.samsung.android.incallui
+250,2022/07/15,Google Play Store,269,9,Yes,No,com.android.vending
+251,2022/07/04,freeCode Camp,44,1,Yes,No,org.freecodecamp
+252,2022/07/02,MTP application,9,2,No,Yes,com.samsung.android.mtp
+253,2022/07/03,Photos,4,1,Yes,No,com.google.android.apps.photos
+254,2022/07/02,Gmail,123,8,Yes,No,com.google.android.gm
+255,2022/07/04,Gmail,13,3,Yes,No,com.google.android.gm
+256,2022/07/02,Device care,237,10,Yes,No,com.samsung.android.lool
+257,2022/07/02,Recommended apps,31,1,No,Yes,com.samsung.android.app.omcagent
+258,2022/07/04,Device care,50,1,Yes,No,com.samsung.android.lool
+259,2022/07/02,Smart Widget,0,1,No,Yes,com.samsung.android.app.smartwidget
+260,2022/07/03,Link to Windows Service,0,2,No,Yes,com.samsung.android.mdx
+261,2022/07/03,Device care,118,2,Yes,No,com.samsung.android.lool
+262,2022/07/04,Google Play Store,576,16,Yes,No,com.android.vending
+263,2022/07/02,Photos,56,6,Yes,No,com.google.android.apps.photos
+264,2022/07/03,Google Play Store,56,4,Yes,No,com.android.vending
+265,2022/07/02,Samsung setup wizard,112,26,No,Yes,com.sec.android.app.SecSetupWizard
+266,2022/07/02,Google Play Store,564,25,Yes,No,com.android.vending
+267,2022/07/03,Telegram,1068,26,Yes,No,org.telegram.messenger
+268,2022/07/04,Call settings,12,1,No,Yes,com.samsung.android.app.telephonyui
+269,2022/07/04,Telegram,907,22,Yes,No,org.telegram.messenger
+270,2022/07/02,Call settings,12,3,No,Yes,com.samsung.android.app.telephonyui
+271,2022/07/02,Telegram,62,6,Yes,No,org.telegram.messenger
+272,2022/07/03,Call settings,14,1,No,Yes,com.samsung.android.app.telephonyui
+273,2022/07/02,Call,4,1,Yes,No,com.samsung.android.incallui
+274,2022/07/04,Call,199,8,Yes,No,com.samsung.android.incallui
+275,2022/07/02,Wallpaper services,38,3,No,Yes,com.samsung.android.dynamiclock
+276,2022/07/02,Samsung Keyboard,3,1,No,Yes,com.samsung.android.honeyboard
+277,2022/07/04,Gboard,38,3,Yes,No,com.google.android.inputmethod.latin
+278,2022/07/02,Software update,26,1,No,Yes,com.wssyncmldm
+279,2022/07/02,Gboard,62,3,Yes,No,com.google.android.inputmethod.latin
+280,2022/07/03,Wallpaper services,54,2,No,Yes,com.samsung.android.dynamiclock
+281,2022/07/02,Permission controller,79,23,No,Yes,com.google.android.permissioncontroller
+282,2022/07/04,Permission controller,5,6,No,Yes,com.google.android.permissioncontroller
+283,2022/07/03,Permission controller,6,3,No,Yes,com.google.android.permissioncontroller
+284,2022/07/02,Android Setup,82,28,No,Yes,com.google.android.setupwizard
+285,2022/07/02,AlwaysOnDisplay,78,10,No,Yes,com.samsung.android.app.aodservice
+286,2022/07/02,Apps,59,2,No,Yes,com.samsung.android.app.appsedge
+287,2022/07/04,Apps,97,2,No,Yes,com.samsung.android.app.appsedge
+288,2022/07/03,AR Emoji,66,2,No,Yes,com.samsung.android.aremoji
+289,2022/07/03,Battery Tracker (Uninstalled),21,1,Yes,No,com.android.samsung.batteryusage
+290,2022/07/02,Settings,1978,157,Yes,No,com.android.settings
+291,2022/07/03,Settings,278,25,Yes,No,com.android.settings
+292,2022/07/04,Settings,68,15,Yes,No,com.android.settings
+293,2022/07/04,One UI Home,1154,160,No,Yes,com.sec.android.app.launcher
+294,2022/07/02,Adapt sound,39,3,No,Yes,com.sec.hearingadjust
+295,2022/07/03,One UI Home,611,101,No,Yes,com.sec.android.app.launcher
+296,2022/07/02,YouTube,23,3,No,Yes,com.google.android.youtube
+297,2022/07/02,Bixby Routines,2,1,No,Yes,com.samsung.android.app.routines
+298,2022/07/02,Settings Suggestions,220,32,No,Yes,com.android.settings.intelligence
+299,2022/07/03,Google Play services,7,2,No,Yes,com.google.android.gms
+300,2022/07/04,Google Play services,14,6,No,Yes,com.google.android.gms
+301,2022/07/02,Samsung Pass,7,1,Yes,No,com.samsung.android.samsungpass
+302,2022/07/02,Clock,74,2,Yes,No,com.sec.android.app.clockpackage
+303,2022/07/04,Notion,31,4,Yes,No,notion.id
+304,2022/07/02,One UI Home,1838,199,No,Yes,com.sec.android.app.launcher
+305,2022/07/02,SecSoundPicker,79,3,No,Yes,com.samsung.android.secsoundpicker
+306,2022/07/02,Separate app sound,26,1,No,Yes,com.samsung.android.setting.multisound
+307,2022/07/04,The Hindu,137,4,Yes,No,com.mobstac.thehindu
+308,2022/07/04,Clock,17,2,Yes,No,com.sec.android.app.clockpackage
+309,2022/07/02,com.samsung.android.biometrics.app.setting,72,2,No,Yes,com.samsung.android.biometrics.app.setting
+310,2022/07/04,WhatsApp,634,14,Yes,No,com.whatsapp
+311,2022/07/03,WhatsApp,7052,31,Yes,No,com.whatsapp
+312,2022/07/04,Settings Suggestions,18,6,No,Yes,com.android.settings.intelligence
+313,2022/07/02,WhatsApp,455,19,Yes,No,com.whatsapp
+314,2022/07/03,Settings Suggestions,30,6,No,Yes,com.android.settings.intelligence
+315,2022/07/03,com.samsung.android.biometrics.app.setting,85,2,No,Yes,com.samsung.android.biometrics.app.setting
+316,2022/07/02,Xodo Docs,1802,19,Yes,No,com.xodo.pdf.reader
+317,2022/07/02,Vanced Manager,182,4,Yes,No,com.vanced.manager
+318,2022/07/04,PrepLadder,21804,40,Yes,No,com.prepladder.learningapp
+319,2022/07/02,PrepLadder,1328,13,Yes,No,com.prepladder.learningapp
+320,2022/07/03,Xodo Docs,614,16,Yes,No,com.xodo.pdf.reader
+321,2022/07/03,My Files,107,6,Yes,No,com.sec.android.app.myfiles
+322,2022/07/02,Google Play services,201,22,No,Yes,com.google.android.gms
+323,2022/07/03,PrepLadder,16,7,Yes,No,com.prepladder.learningapp
+324,2022/07/04,Xodo Docs,1848,6,Yes,No,com.xodo.pdf.reader
+325,2022/07/04,Vanced microG,23,2,No,Yes,com.mgoogle.android.gms
+326,2022/07/04,Finder,24,4,Yes,No,com.samsung.android.app.galaxyfinder
+327,2022/07/02,Finder,52,11,Yes,No,com.samsung.android.app.galaxyfinder
+328,2022/07/03,Finder,6,2,Yes,No,com.samsung.android.app.galaxyfinder
+329,2022/07/04,YouTube Music,28,2,Yes,No,com.vanced.android.apps.youtube.music
+330,2022/07/02,Find My Mobile,42,4,No,Yes,com.samsung.android.fmm
+331,2022/07/02,OneDrive,0,1,Yes,No,com.microsoft.skydrive
+332,2022/07/03,Android System,7,2,No,Yes,android
+333,2022/07/02,Android System,19,5,No,Yes,android
+334,2022/07/02,Samsung account,252,12,No,Yes,com.osp.app.signin
+335,2022/07/04,Android System,1,2,No,Yes,android
+336,2022/07/04,Samsung account,3,1,No,Yes,com.osp.app.signin
+337,2022/07/04,Samsung Notes,158,1,Yes,No,com.samsung.android.app.notes
+338,2022/07/03,Samsung account,3,1,No,Yes,com.osp.app.signin
+339,2022/07/02,Samsung Notes,48,6,Yes,No,com.samsung.android.app.notes
+340,2022/07/03,NotiStar (Uninstalled),20,3,No,Yes,com.samsung.systemui.notilus
+341,2022/07/04,Samsung capture,128,4,No,Yes,com.samsung.android.app.smartcapture
+342,2022/07/02,Smart View,43,2,No,Yes,com.samsung.android.smartmirroring
+343,2022/07/03,Samsung capture,9,1,No,Yes,com.samsung.android.app.smartcapture
+344,2022/07/02,Samsung capture,54,3,No,Yes,com.samsung.android.app.smartcapture
+345,2022/07/03,Contacts,49,3,Yes,No,com.samsung.android.app.contacts
+346,2022/07/04,Contacts,13,2,Yes,No,com.samsung.android.app.contacts
+347,2022/07/03,Pikashow,1294,3,Yes,No,com.offshore.pikachu
+348,2022/07/02,Contacts,24,3,Yes,No,com.samsung.android.app.contacts
+349,2022/07/04,Pikashow,316,9,Yes,No,com.offshore.pikachu
+350,2022/07/02,Data restore tool,32,4,No,Yes,com.google.android.apps.restore
+351,2022/07/04,Phone,84,7,Yes,No,com.samsung.android.dialer
+352,2022/07/02,Tags,5,2,No,Yes,com.samsung.android.service.tagservice
+353,2022/07/02,YouTube Vanced,21,1,Yes,No,com.vanced.android.youtube
+354,2022/07/03,Samsung DeX,4,1,No,Yes,com.sec.android.desktopmode.uiservice
+355,2022/07/02,Samsung DeX,141,7,No,Yes,com.sec.android.desktopmode.uiservice
+356,2022/07/02,Secure Folder,32,4,Yes,No,com.samsung.knox.securefolder
+357,2022/07/03,Phone,3,1,Yes,No,com.samsung.android.dialer
+358,2022/07/02,Phone,5,3,Yes,No,com.samsung.android.dialer
+359,2022/07/02,Pikashow,2792,17,Yes,No,com.offshore.pikachu
+360,2022/07/04,YouTube Vanced,8459,18,Yes,No,com.vanced.android.youtube
+361,2022/07/03,YouTube Vanced,334,3,Yes,No,com.vanced.android.youtube
+362,2022/07/03,OneDrive,93,3,Yes,No,com.microsoft.skydrive
+363,2022/07/04,System UI,5,1,No,Yes,com.android.systemui
+364,2022/07/02,System UI,98,5,No,Yes,com.android.systemui
+365,2022/07/04,Digital Wellbeing,26,1,No,Yes,com.samsung.android.forest
+366,2022/07/02,Galaxy Themes,104,7,No,Yes,com.samsung.android.themestore
+367,2022/07/03,Galaxy Themes,39,1,No,Yes,com.samsung.android.themestore
+368,2022/07/02,Camera,21,4,Yes,No,com.sec.android.app.camera
+369,2022/07/03,Digital Wellbeing,117,3,No,Yes,com.samsung.android.forest
+370,2022/07/02,Digital Wellbeing,65,4,No,Yes,com.samsung.android.forest
+371,2022/07/03,Camera,18,4,Yes,No,com.sec.android.app.camera
+372,2022/07/04,Camera,246,9,Yes,No,com.sec.android.app.camera
+373,2022/07/02,Link to Windows,3,1,Yes,No,com.microsoft.appmanager
+374,2022/07/03,Accessibility,182,3,Yes,No,com.samsung.accessibility
+375,2022/07/02,Accessibility,29,2,Yes,No,com.samsung.accessibility
+376,2022/07/03,Link to Windows,4,2,Yes,No,com.microsoft.appmanager
+377,2022/07/02,Drive,40,4,Yes,No,com.google.android.apps.docs
+378,2022/07/03,Drive,34,2,Yes,No,com.google.android.apps.docs
+379,2022/07/04,The Hindu ePaper,114,2,Yes,No,com.epaper.thehindu.android
+380,2022/07/03,Galaxy Store,67,3,Yes,No,com.sec.android.app.samsungapps
+381,2022/07/04,Paytm,0,1,Yes,No,net.one97.paytm
+382,2022/07/04,Galaxy Store,11,1,Yes,No,com.sec.android.app.samsungapps
+383,2022/07/02,Samsung Cloud,20,3,No,Yes,com.samsung.android.scloud
+384,2022/07/04,Samsung Free,122,5,No,Yes,com.samsung.android.app.spage
+385,2022/07/03,Chrome,4065,26,Yes,No,com.android.chrome
+386,2022/07/04,Chrome,2349,24,Yes,No,com.android.chrome
+387,2022/07/02,Samsung Free,0,1,No,Yes,com.samsung.android.app.spage
+388,2022/07/02,Gallery,54,6,Yes,No,com.sec.android.gallery3d
+389,2022/07/03,Gallery,41,3,Yes,No,com.sec.android.gallery3d
+390,2022/07/04,Gallery,65,5,Yes,No,com.sec.android.gallery3d
+391,2022/07/02,Galaxy Store,87,7,Yes,No,com.sec.android.app.samsungapps
+392,2022/07/03,Quick Share,1,1,No,Yes,com.samsung.android.app.sharelive
+393,2022/07/04,Package installer,6,4,No,Yes,com.google.android.packageinstaller
+394,2022/07/03,Package installer,21,7,No,Yes,com.google.android.packageinstaller
+395,2022/07/02,Package installer,69,18,No,Yes,com.google.android.packageinstaller
+396,2022/07/02,SoundAlive,11,1,No,Yes,com.sec.android.app.soundalive
+397,2022/07/03,Wallpaper and style,33,2,No,Yes,com.samsung.android.app.dressroom
+398,2022/07/02,Wallpaper and style,151,9,No,Yes,com.samsung.android.app.dressroom
+399,2022/07/03,Google,4,8,Yes,No,com.google.android.googlequicksearchbox
+400,2022/07/04,Google,74,8,Yes,No,com.google.android.googlequicksearchbox
+401,2022/07/02,Google,36,4,Yes,No,com.google.android.googlequicksearchbox
+402,2022/07/03,AR Zone,8,3,Yes,No,com.samsung.android.arzone
+403,2022/07/02,Chrome,782,18,Yes,No,com.android.chrome
+404,2022/07/02,Truecaller,57,10,Yes,No,com.truecaller
+405,2022/07/03,Dual Messenger,9,1,No,Yes,com.samsung.android.da.daagent
+406,2022/07/04,AR Zone,2,1,Yes,No,com.samsung.android.arzone
+407,2022/07/04,BusinessLine,42,4,Yes,No,com.mobstac.thehindubusinessline
+408,2022/07/05,Photos,776,2,Yes,No,com.google.android.apps.photos
+409,2022/07/05,Galaxy Store,89,2,Yes,No,com.sec.android.app.samsungapps
+410,2022/07/05,Settings,421,27,Yes,No,com.android.settings
+411,2022/07/05,SuccessClap,66,2,Yes,No,com.successclap
+412,2022/07/05,Truecaller,23,4,Yes,No,com.truecaller
+413,2022/07/05,One UI Home,1091,300,No,Yes,com.sec.android.app.launcher
+414,2022/07/05,YourHour,85,2,Yes,No,com.mindefy.phoneaddiction.mobilepe
+415,2022/07/05,Chrome,5265,67,Yes,No,com.android.chrome
+416,2022/07/05,Gmail,661,16,Yes,No,com.google.android.gm
+417,2022/07/05,Photo Screensavers,21,4,No,Yes,com.android.dreams.phototable
+418,2022/07/05,Pikashow,93,1,Yes,No,com.offshore.pikachu
+419,2022/07/05,Google Play services,37,15,No,Yes,com.google.android.gms
+420,2022/07/05,Twitter,1545,10,Yes,No,com.twitter.android
+421,2022/07/05,Phone,148,15,Yes,No,com.samsung.android.dialer
+422,2022/07/05,Wallpaper and style,58,5,No,Yes,com.samsung.android.app.dressroom
+423,2022/07/05,Clock,62,2,Yes,No,com.sec.android.app.clockpackage
+424,2022/07/05,Moovit (Uninstalled),529,6,Yes,No,com.tranzmate
+425,2022/07/05,Google Play Store,203,7,Yes,No,com.android.vending
+426,2022/07/05,WhatsApp,4952,76,Yes,No,com.whatsapp
+427,2022/07/05,Settings Suggestions,23,4,No,Yes,com.android.settings.intelligence
+428,2022/07/05,YouTube Vanced,8607,20,Yes,No,com.vanced.android.youtube
+429,2022/07/05,Docs,229,3,Yes,No,com.google.android.apps.docs.editors.docs
+430,2022/07/05,WAMR,18,4,Yes,No,com.drilens.wamr
+431,2022/07/05,Call settings,20,1,No,Yes,com.samsung.android.app.telephonyui
+432,2022/07/05,Package installer,2,1,No,Yes,com.google.android.packageinstaller
+433,2022/07/05,Digital Wellbeing,8,2,No,Yes,com.samsung.android.forest
+434,2022/07/05,Telegram,1555,39,Yes,No,org.telegram.messenger
+435,2022/07/05,Call,6596,22,Yes,No,com.samsung.android.incallui
+436,2022/07/05,Google,257,2,Yes,No,com.google.android.googlequicksearchbox
+437,2022/07/05,PrepLadder,8996,27,Yes,No,com.prepladder.learningapp
+438,2022/07/05,Gboard,0,2,Yes,No,com.google.android.inputmethod.latin
+439,2022/07/05,Xodo Docs,773,20,Yes,No,com.xodo.pdf.reader
+440,2022/07/05,StepSetGo,44,4,Yes,No,com.pepkit.ssg
+441,2022/07/05,Wallpaper services,23,6,No,Yes,com.samsung.android.dynamiclock
+442,2022/07/05,Finder,39,8,Yes,No,com.samsung.android.app.galaxyfinder
+443,2022/07/05,BRTS Ahmedabad (Uninstalled),666,27,Yes,No,com.enticearc.brtsahmedabad
+444,2022/07/05,Calculator,78,6,Yes,No,com.sec.android.app.popupcalculator
+445,2022/07/05,Permission controller,21,12,No,Yes,com.google.android.permissioncontroller
+446,2022/07/05,Accessibility,15,1,Yes,No,com.samsung.accessibility
+447,2022/07/05,Maps,1563,28,Yes,No,com.google.android.apps.maps
+448,2022/07/05,freeCode Camp,149,9,Yes,No,org.freecodecamp
+449,2022/07/06,Photos,9,3,Yes,No,com.google.android.apps.photos
+450,2022/07/06,Android System,23,5,No,Yes,android
+451,2022/07/06,Messages,186,4,Yes,No,com.samsung.android.messaging
+452,2022/07/06,Hirect (Uninstalled),317,2,Yes,No,in.hirect
+453,2022/07/06,Paytm,436,6,Yes,No,net.one97.paytm
+454,2022/07/06,One UI Home,1480,331,No,Yes,com.sec.android.app.launcher
+455,2022/07/06,Settings,28,11,Yes,No,com.android.settings
+456,2022/07/06,Truecaller,21,3,Yes,No,com.truecaller
+457,2022/07/06,MTP application,2,1,No,Yes,com.samsung.android.mtp
+458,2022/07/06,Gmail,386,13,Yes,No,com.google.android.gm
+459,2022/07/06,Chrome,8317,94,Yes,No,com.android.chrome
+460,2022/07/06,Cricbuzz,1054,17,Yes,No,com.cricbuzz.android
+461,2022/07/06,Keep notes,16,1,Yes,No,com.google.android.keep
+462,2022/07/06,Finder,82,23,Yes,No,com.samsung.android.app.galaxyfinder
+463,2022/07/06,Device care,1,1,Yes,No,com.samsung.android.lool
+464,2022/07/06,Pikashow,235,11,Yes,No,com.offshore.pikachu
+465,2022/07/06,Google Play services,10,6,No,Yes,com.google.android.gms
+466,2022/07/06,Twitter,7377,62,Yes,No,com.twitter.android
+467,2022/07/06,Contacts,24,2,Yes,No,com.samsung.android.app.contacts
+468,2022/07/06,Phone,112,12,Yes,No,com.samsung.android.dialer
+469,2022/07/06,Google Play Store,106,10,Yes,No,com.android.vending
+470,2022/07/06,Clock,69,6,Yes,No,com.sec.android.app.clockpackage
+471,2022/07/06,WhatsApp,2025,52,Yes,No,com.whatsapp
+472,2022/07/06,YouTube Vanced,7888,26,Yes,No,com.vanced.android.youtube
+473,2022/07/06,Naukri.com,69,1,Yes,No,naukriApp.appModules.login
+474,2022/07/06,Settings Suggestions,41,6,No,Yes,com.android.settings.intelligence
+475,2022/07/06,Gallery,36,2,Yes,No,com.sec.android.gallery3d
+476,2022/07/06,Call,5102,21,Yes,No,com.samsung.android.incallui
+477,2022/07/06,Package installer,11,4,No,Yes,com.google.android.packageinstaller
+478,2022/07/06,Software update,8,1,No,Yes,com.wssyncmldm
+479,2022/07/06,Telegram,1313,50,Yes,No,org.telegram.messenger
+480,2022/07/06,Google,13,4,Yes,No,com.google.android.googlequicksearchbox
+481,2022/07/06,Gboard,100,4,Yes,No,com.google.android.inputmethod.latin
+482,2022/07/06,PrepLadder,148,6,Yes,No,com.prepladder.learningapp
+483,2022/07/06,Xodo Docs,1674,29,Yes,No,com.xodo.pdf.reader
+484,2022/07/06,Galaxy Themes,210,5,No,Yes,com.samsung.android.themestore
+485,2022/07/06,Video Player,45,1,No,Yes,com.samsung.android.video
+486,2022/07/06,1DM,44,5,Yes,No,idm.internet.download.manager
+487,2022/07/06,My Files,131,5,Yes,No,com.sec.android.app.myfiles
+488,2022/07/06,Relevel,1273,15,Yes,No,com.relevel
+489,2022/07/06,Permission controller,12,6,No,Yes,com.google.android.permissioncontroller
+490,2022/07/06,IRCTC Rail Connect,596,17,Yes,No,cris.org.in.prs.ima
+491,2022/07/06,Calculator,8,1,Yes,No,com.sec.android.app.popupcalculator
+492,2022/07/06,Drive,54,4,Yes,No,com.google.android.apps.docs
+493,2022/07/06,freeCode Camp,9,2,Yes,No,org.freecodecamp
+494,2022/07/06,Maps,54,1,Yes,No,com.google.android.apps.maps
+495,2022/07/07,Android System,0,2,No,Yes,android
+496,2022/07/07,Messages,6,1,Yes,No,com.samsung.android.messaging
+497,2022/07/07,One UI Home,1054,160,No,Yes,com.sec.android.app.launcher
+498,2022/07/07,Cricbuzz,1892,22,Yes,No,com.cricbuzz.android
+499,2022/07/07,Settings,88,5,Yes,No,com.android.settings
+500,2022/07/07,Gmail,44,3,Yes,No,com.google.android.gm
+501,2022/07/07,Notion,4,2,Yes,No,notion.id
+502,2022/07/07,AccuBattery,234,4,Yes,No,com.digibites.accubattery
+503,2022/07/07,Chrome,4056,31,Yes,No,com.android.chrome
+504,2022/07/07,Finder,7,2,Yes,No,com.samsung.android.app.galaxyfinder
+505,2022/07/07,Gallery,7,1,Yes,No,com.sec.android.gallery3d
+506,2022/07/07,Device care,4,1,Yes,No,com.samsung.android.lool
+507,2022/07/07,Wallpaper and style,8,1,No,Yes,com.samsung.android.app.dressroom
+508,2022/07/07,Twitter,4449,30,Yes,No,com.twitter.android
+509,2022/07/07,Google Play services,4,2,No,Yes,com.google.android.gms
+510,2022/07/07,Phone,68,8,Yes,No,com.samsung.android.dialer
+511,2022/07/07,Pikashow,2472,14,Yes,No,com.offshore.pikachu
+512,2022/07/07,Google Play Store,185,5,Yes,No,com.android.vending
+513,2022/07/07,WhatsApp,725,17,Yes,No,com.whatsapp
+514,2022/07/07,Clock,18,2,Yes,No,com.sec.android.app.clockpackage
+515,2022/07/07,Package installer,3,3,No,Yes,com.google.android.packageinstaller
+516,2022/07/07,Call,1822,18,Yes,No,com.samsung.android.incallui
+517,2022/07/07,Camera,14,2,Yes,No,com.sec.android.app.camera
+518,2022/07/07,YouTube Vanced,51,1,Yes,No,com.vanced.android.youtube
+519,2022/07/07,Telegram,137,18,Yes,No,org.telegram.messenger
+520,2022/07/07,Xodo Docs,624,5,Yes,No,com.xodo.pdf.reader
+521,2022/07/07,PrepLadder,7115,18,Yes,No,com.prepladder.learningapp
+522,2022/07/07,Galaxy Themes,9,1,No,Yes,com.samsung.android.themestore
+523,2022/07/07,Google,35,2,Yes,No,com.google.android.googlequicksearchbox
+524,2022/07/07,IRCTC Rail Connect,0,1,Yes,No,cris.org.in.prs.ima
+525,2022/07/07,My Files,34,2,Yes,No,com.sec.android.app.myfiles
+526,2022/07/07,Relevel,89,2,Yes,No,com.relevel
+527,2022/07/07,freeCode Camp,29,1,Yes,No,org.freecodecamp
+528,2022/07/08,One UI Home,373,99,No,Yes,com.sec.android.app.launcher
+529,2022/07/08,Cricbuzz,479,13,Yes,No,com.cricbuzz.android
+530,2022/07/08,Truecaller,4,2,Yes,No,com.truecaller
+531,2022/07/08,Android System,1,2,No,Yes,android
+532,2022/07/08,Messages,2,1,Yes,No,com.samsung.android.messaging
+533,2022/07/08,Paytm,294,3,Yes,No,net.one97.paytm
+534,2022/07/08,Settings,28,3,Yes,No,com.android.settings
+535,2022/07/08,Photos,36,1,Yes,No,com.google.android.apps.photos
+536,2022/07/08,Google Play Store,28,3,Yes,No,com.android.vending
+537,2022/07/08,Finder,13,4,Yes,No,com.samsung.android.app.galaxyfinder
+538,2022/07/08,Chrome,4320,32,Yes,No,com.android.chrome
+539,2022/07/08,Gmail,70,3,Yes,No,com.google.android.gm
+540,2022/07/08,Phone,1854,9,Yes,No,com.samsung.android.dialer
+541,2022/07/08,Pikashow,5159,12,Yes,No,com.offshore.pikachu
+542,2022/07/08,Twitter,3663,24,Yes,No,com.twitter.android
+543,2022/07/08,WhatsApp,1560,15,Yes,No,com.whatsapp
+544,2022/07/08,Naukri.com,207,1,Yes,No,naukriApp.appModules.login
+545,2022/07/08,Clock,12,2,Yes,No,com.sec.android.app.clockpackage
+546,2022/07/08,YouTube Vanced,10480,23,Yes,No,com.vanced.android.youtube
+547,2022/07/08,Call,6887,13,Yes,No,com.samsung.android.incallui
+548,2022/07/08,Telegram,146,8,Yes,No,org.telegram.messenger
+549,2022/07/08,Permission controller,2,1,No,Yes,com.google.android.permissioncontroller
+550,2022/07/08,Xodo Docs,145,4,Yes,No,com.xodo.pdf.reader
+551,2022/07/08,Package installer,3,1,No,Yes,com.google.android.packageinstaller
+552,2022/07/08,Google,38,2,Yes,No,com.google.android.googlequicksearchbox
+553,2022/07/08,IRCTC Rail Connect,203,1,Yes,No,cris.org.in.prs.ima
+554,2022/07/08,The Hindu ePaper,142,2,Yes,No,com.epaper.thehindu.android
+555,2022/07/08,Maps,48,1,Yes,No,com.google.android.apps.maps
+556,2022/07/08,WAMR,12,3,Yes,No,com.drilens.wamr
+557,2022/07/08,Where is my Train,136,5,Yes,No,com.whereismytrain.android
+558,2022/07/09,Truecaller,86,3,Yes,No,com.truecaller
+559,2022/07/09,One UI Home,1124,227,No,Yes,com.sec.android.app.launcher
+560,2022/07/09,Cricbuzz,1038,19,Yes,No,com.cricbuzz.android
+561,2022/07/09,Messages,3,2,Yes,No,com.samsung.android.messaging
+562,2022/07/09,Paytm,338,7,Yes,No,net.one97.paytm
+563,2022/07/09,Galaxy Store,61,7,Yes,No,com.sec.android.app.samsungapps
+564,2022/07/09,Google Play Store,54,2,Yes,No,com.android.vending
+565,2022/07/09,Settings,158,30,Yes,No,com.android.settings
+566,2022/07/09,Keep notes,2,2,Yes,No,com.google.android.keep
+567,2022/07/09,Key Chain,0,1,No,Yes,com.android.keychain
+568,2022/07/09,AccuBattery,96,1,Yes,No,com.digibites.accubattery
+569,2022/07/09,Finder,39,11,Yes,No,com.samsung.android.app.galaxyfinder
+570,2022/07/09,Chrome,2059,48,Yes,No,com.android.chrome
+571,2022/07/09,Gmail,112,4,Yes,No,com.google.android.gm
+572,2022/07/09,Phone,45,5,Yes,No,com.samsung.android.dialer
+573,2022/07/09,SecSoundPicker,71,4,No,Yes,com.samsung.android.secsoundpicker
+574,2022/07/09,Wallpaper and style,1,1,No,Yes,com.samsung.android.app.dressroom
+575,2022/07/09,Walli 4K,82,2,Yes,No,com.shanga.walli
+576,2022/07/09,Gallery,18,1,Yes,No,com.sec.android.gallery3d
+577,2022/07/09,Pikashow,2581,21,Yes,No,com.offshore.pikachu
+578,2022/07/09,Twitter,3838,22,Yes,No,com.twitter.android
+579,2022/07/09,WhatsApp,3991,54,Yes,No,com.whatsapp
+580,2022/07/09,Settings Suggestions,13,3,No,Yes,com.android.settings.intelligence
+581,2022/07/09,Clock,396,6,Yes,No,com.sec.android.app.clockpackage
+582,2022/07/09,Galaxy Themes,34,1,No,Yes,com.samsung.android.themestore
+583,2022/07/09,Drive,310,1,Yes,No,com.google.android.apps.docs
+584,2022/07/09,YouTube Vanced,7683,18,Yes,No,com.vanced.android.youtube
+585,2022/07/09,Call,1257,16,Yes,No,com.samsung.android.incallui
+586,2022/07/09,AR Emoji,27,5,No,Yes,com.samsung.android.aremoji
+587,2022/07/09,Gboard,0,2,Yes,No,com.google.android.inputmethod.latin
+588,2022/07/09,Xodo Docs,319,6,Yes,No,com.xodo.pdf.reader
+589,2022/07/09,Permission controller,13,3,No,Yes,com.google.android.permissioncontroller
+590,2022/07/09,Google,33,2,Yes,No,com.google.android.googlequicksearchbox
+591,2022/07/09,Device care,41,8,Yes,No,com.samsung.android.lool
+592,2022/07/09,Package installer,4,3,No,Yes,com.google.android.packageinstaller
+593,2022/07/09,AlwaysOnDisplay,144,9,No,Yes,com.samsung.android.app.aodservice
+594,2022/07/09,IRCTC Rail Connect,157,3,Yes,No,cris.org.in.prs.ima
+595,2022/07/09,My Files,10,2,Yes,No,com.sec.android.app.myfiles
+596,2022/07/09,PrepLadder,152,3,Yes,No,com.prepladder.learningapp
+597,2022/07/09,Telegram,148,18,Yes,No,org.telegram.messenger
+598,2022/07/09,Maps,25,1,Yes,No,com.google.android.apps.maps
+599,2022/07/09,Samsung Cloud,20,1,No,Yes,com.samsung.android.scloud
+600,2022/07/09,SoundAlive,9,1,No,Yes,com.sec.android.app.soundalive
+601,2022/07/09,Where is my Train,1293,43,Yes,No,com.whereismytrain.android
+602,2022/07/09,RcsSettings,4,1,No,Yes,com.samsung.rcs
+603,2022/07/10,Xodo Docs,891,7,Yes,No,com.xodo.pdf.reader
+604,2022/07/10,Video Player,192,5,No,Yes,com.samsung.android.video
+605,2022/07/10,Camera,22,2,Yes,No,com.sec.android.app.camera
+606,2022/07/10,1DM,2,1,Yes,No,idm.internet.download.manager
+607,2022/07/10,Twitter,3591,18,Yes,No,com.twitter.android
+608,2022/07/10,Telegram,33,4,Yes,No,org.telegram.messenger
+609,2022/07/10,Calculator,99,5,Yes,No,com.sec.android.app.popupcalculator
+610,2022/07/10,Chrome,2650,36,Yes,No,com.android.chrome
+611,2022/07/10,Google,37,2,Yes,No,com.google.android.googlequicksearchbox
+612,2022/07/10,Finder,25,9,Yes,No,com.samsung.android.app.galaxyfinder
+613,2022/07/10,Call,164,11,Yes,No,com.samsung.android.incallui
+614,2022/07/10,Truecaller,3,2,Yes,No,com.truecaller
+615,2022/07/10,Paytm,233,6,Yes,No,net.one97.paytm
+616,2022/07/10,Gmail,17,1,Yes,No,com.google.android.gm
+617,2022/07/10,Keep notes,3,2,Yes,No,com.google.android.keep
+618,2022/07/10,Android System,8,2,No,Yes,android
+619,2022/07/10,Smart View,3,1,No,Yes,com.samsung.android.smartmirroring
+620,2022/07/10,Cricbuzz,1496,18,Yes,No,com.cricbuzz.android
+621,2022/07/10,Settings,38,4,Yes,No,com.android.settings
+622,2022/07/10,Samsung capture,10,1,No,Yes,com.samsung.android.app.smartcapture
+623,2022/07/10,Google Play Store,1,1,Yes,No,com.android.vending
+624,2022/07/10,WhatsApp,515,17,Yes,No,com.whatsapp
+625,2022/07/10,AccuBattery,427,10,Yes,No,com.digibites.accubattery
+626,2022/07/10,Package installer,1,1,No,Yes,com.google.android.packageinstaller
+627,2022/07/10,Gallery,9,1,Yes,No,com.sec.android.gallery3d
+628,2022/07/10,YouTube Vanced,9336,21,Yes,No,com.vanced.android.youtube
+629,2022/07/10,One UI Home,606,135,No,Yes,com.sec.android.app.launcher
+630,2022/07/10,Pikashow,136,2,Yes,No,com.offshore.pikachu
+631,2022/07/10,Phone,109,18,Yes,No,com.samsung.android.dialer
+632,2022/07/11,Xodo Docs,385,11,Yes,No,com.xodo.pdf.reader
+633,2022/07/11,Video Player,6370,4,No,Yes,com.samsung.android.video
+634,2022/07/11,IRCTC Rail Connect,382,4,Yes,No,cris.org.in.prs.ima
+635,2022/07/11,Camera,56,4,Yes,No,com.sec.android.app.camera
+636,2022/07/11,PrepLadder,2,2,Yes,No,com.prepladder.learningapp
+637,2022/07/11,Gboard,0,2,Yes,No,com.google.android.inputmethod.latin
+638,2022/07/11,Telegram,106,6,Yes,No,org.telegram.messenger
+639,2022/07/11,My Files,25,3,Yes,No,com.sec.android.app.myfiles
+640,2022/07/11,Google Play services,2,2,No,Yes,com.google.android.gms
+641,2022/07/11,Twitter,6261,25,Yes,No,com.twitter.android
+642,2022/07/11,Digital Wellbeing,42,1,No,Yes,com.samsung.android.forest
+643,2022/07/11,Permission controller,2,2,No,Yes,com.google.android.permissioncontroller
+644,2022/07/11,Finder,15,7,Yes,No,com.samsung.android.app.galaxyfinder
+645,2022/07/11,Maps,179,3,Yes,No,com.google.android.apps.maps
+646,2022/07/11,Chrome,6584,61,Yes,No,com.android.chrome
+647,2022/07/11,Where is my Train,59,2,Yes,No,com.whereismytrain.android
+648,2022/07/11,Google,37,4,Yes,No,com.google.android.googlequicksearchbox
+649,2022/07/11,Drive,416,5,Yes,No,com.google.android.apps.docs
+650,2022/07/11,Call,572,22,Yes,No,com.samsung.android.incallui
+651,2022/07/11,Truecaller,2,1,Yes,No,com.truecaller
+652,2022/07/11,Messages,1,1,Yes,No,com.samsung.android.messaging
+653,2022/07/11,Paytm,736,8,Yes,No,net.one97.paytm
+654,2022/07/11,Photo Editor,22,2,No,Yes,com.sec.android.mimage.photoretouching
+655,2022/07/11,Gmail,179,5,Yes,No,com.google.android.gm
+656,2022/07/11,Smart View,2,2,No,Yes,com.samsung.android.smartmirroring
+657,2022/07/11,Cricbuzz,2302,13,Yes,No,com.cricbuzz.android
+658,2022/07/11,Android System,2,1,No,Yes,android
+659,2022/07/11,Settings,26,8,Yes,No,com.android.settings
+660,2022/07/11,Relevel,190,3,Yes,No,com.relevel
+661,2022/07/11,Print Spooler,7,2,No,Yes,com.android.printspooler
+662,2022/07/11,WhatsApp,948,20,Yes,No,com.whatsapp
+663,2022/07/11,AccuBattery,700,15,Yes,No,com.digibites.accubattery
+664,2022/07/11,Settings Suggestions,29,4,No,Yes,com.android.settings.intelligence
+665,2022/07/11,Naukri.com,15,1,Yes,No,naukriApp.appModules.login
+666,2022/07/11,Gallery,93,6,Yes,No,com.sec.android.gallery3d
+667,2022/07/11,Phone,130,22,Yes,No,com.samsung.android.dialer
+668,2022/07/11,One UI Home,1092,191,No,Yes,com.sec.android.app.launcher
+669,2022/07/11,Device care,3,1,Yes,No,com.samsung.android.lool
+670,2022/07/11,YouTube Vanced,9061,17,Yes,No,com.vanced.android.youtube
+671,2022/07/11,Google Play Store,41,5,Yes,No,com.android.vending
+672,2022/07/12,Xodo Docs,888,12,Yes,No,com.xodo.pdf.reader
+673,2022/07/12,Telegram,126,9,Yes,No,org.telegram.messenger
+674,2022/07/12,Camera,19,3,Yes,No,com.sec.android.app.camera
+675,2022/07/12,Twitter,4297,43,Yes,No,com.twitter.android
+676,2022/07/12,Google Play services,2,2,No,Yes,com.google.android.gms
+677,2022/07/12,Permission controller,4,3,No,Yes,com.google.android.permissioncontroller
+678,2022/07/12,Maps,138,3,Yes,No,com.google.android.apps.maps
+679,2022/07/12,Finder,29,6,Yes,No,com.samsung.android.app.galaxyfinder
+680,2022/07/12,Chrome,4395,55,Yes,No,com.android.chrome
+681,2022/07/12,Truecaller,4,2,Yes,No,com.truecaller
+682,2022/07/12,Call,243,13,Yes,No,com.samsung.android.incallui
+683,2022/07/12,Paytm,194,6,Yes,No,net.one97.paytm
+684,2022/07/12,YourHour,17,1,Yes,No,com.mindefy.phoneaddiction.mobilepe
+685,2022/07/12,Gmail,208,9,Yes,No,com.google.android.gm
+686,2022/07/12,Cricbuzz,2665,42,Yes,No,com.cricbuzz.android
+687,2022/07/12,GPay,383,14,Yes,No,com.google.android.apps.nbu.paisa.user
+688,2022/07/12,Settings,25,5,Yes,No,com.android.settings
+689,2022/07/12,WhatsApp,2253,28,Yes,No,com.whatsapp
+690,2022/07/12,Naukri.com,1,1,Yes,No,naukriApp.appModules.login
+691,2022/07/12,AccuBattery,126,5,Yes,No,com.digibites.accubattery
+692,2022/07/12,Phone,19,8,Yes,No,com.samsung.android.dialer
+693,2022/07/12,One UI Home,1081,180,No,Yes,com.sec.android.app.launcher
+694,2022/07/12,YouTube Vanced,12355,23,Yes,No,com.vanced.android.youtube
+695,2022/07/12,Pikashow,23,1,Yes,No,com.offshore.pikachu
+696,2022/07/12,Google Play Store,2,2,Yes,No,com.android.vending
+697,2022/07/13,Xodo Docs,104,4,Yes,No,com.xodo.pdf.reader
+698,2022/07/13,Telegram,75,8,Yes,No,org.telegram.messenger
+699,2022/07/13,Call,1894,16,Yes,No,com.samsung.android.incallui
+700,2022/07/13,Package installer,1,1,No,Yes,com.google.android.packageinstaller
+701,2022/07/13,Camera,41,4,Yes,No,com.sec.android.app.camera
+702,2022/07/13,Rapido,425,11,Yes,No,com.rapido.passenger
+703,2022/07/13,Google Play services,10,6,No,Yes,com.google.android.gms
+704,2022/07/13,Ola (Uninstalled),61,7,Yes,No,com.olacabs.customer
+705,2022/07/13,Finder,19,8,Yes,No,com.samsung.android.app.galaxyfinder
+706,2022/07/13,Permission controller,12,2,No,Yes,com.google.android.permissioncontroller
+707,2022/07/13,Maps,1344,15,Yes,No,com.google.android.apps.maps
+708,2022/07/13,Google,231,13,Yes,No,com.google.android.googlequicksearchbox
+709,2022/07/13,Chrome,3334,40,Yes,No,com.android.chrome
+710,2022/07/13,Messages,3,1,Yes,No,com.samsung.android.messaging
+711,2022/07/13,Paytm,105,4,Yes,No,net.one97.paytm
+712,2022/07/13,Settings,5,2,Yes,No,com.android.settings
+713,2022/07/13,Uber,247,5,Yes,No,com.ubercab
+714,2022/07/13,Gmail,263,11,Yes,No,com.google.android.gm
+715,2022/07/13,Android System,12,6,No,Yes,android
+716,2022/07/13,Cricbuzz,685,8,Yes,No,com.cricbuzz.android
+717,2022/07/13,Relevel,121,1,Yes,No,com.relevel
+718,2022/07/13,GPay,7,1,Yes,No,com.google.android.apps.nbu.paisa.user
+719,2022/07/13,Samsung capture,25,2,No,Yes,com.samsung.android.app.smartcapture
+720,2022/07/13,AccuBattery,56,2,Yes,No,com.digibites.accubattery
+721,2022/07/13,Twitter,3473,24,Yes,No,com.twitter.android
+722,2022/07/13,YouTube Vanced,7511,27,Yes,No,com.vanced.android.youtube
+723,2022/07/13,One UI Home,448,146,No,Yes,com.sec.android.app.launcher
+724,2022/07/13,Phone,31,7,Yes,No,com.samsung.android.dialer
+725,2022/07/13,Gallery,8,1,Yes,No,com.sec.android.gallery3d
+726,2022/07/13,Pikashow,118,5,Yes,No,com.offshore.pikachu
+727,2022/07/13,Google Play Store,152,8,Yes,No,com.android.vending
+728,2022/07/13,WhatsApp,3272,45,Yes,No,com.whatsapp
+729,2022/07/14,Telegram,81,9,Yes,No,org.telegram.messenger
+730,2022/07/14,Video Player,2338,2,No,Yes,com.samsung.android.video
+731,2022/07/14,Call,103,5,Yes,No,com.samsung.android.incallui
+732,2022/07/14,Google,5,3,Yes,No,com.google.android.googlequicksearchbox
+733,2022/07/14,Rapido,187,2,Yes,No,com.rapido.passenger
+734,2022/07/14,My Files,5,1,Yes,No,com.sec.android.app.myfiles
+735,2022/07/14,Xodo Docs,92,1,Yes,No,com.xodo.pdf.reader
+736,2022/07/14,Wallpaper services,0,1,No,Yes,com.samsung.android.dynamiclock
+737,2022/07/14,Sunrise,132,2,Yes,No,mobi.lockdown.sunrise
+738,2022/07/14,PrepLadder,2297,36,Yes,No,com.prepladder.learningapp
+739,2022/07/14,Maps,318,4,Yes,No,com.google.android.apps.maps
+740,2022/07/14,Finder,36,9,Yes,No,com.samsung.android.app.galaxyfinder
+741,2022/07/14,IRCTC Rail Connect,145,7,Yes,No,cris.org.in.prs.ima
+742,2022/07/14,Where is my Train,1181,27,Yes,No,com.whereismytrain.android
+743,2022/07/14,Permission controller,6,5,No,Yes,com.google.android.permissioncontroller
+744,2022/07/14,Instagram (Uninstalled),1222,7,Yes,No,com.instagram.android
+745,2022/07/14,Physics Wallah,394,5,Yes,No,xyz.penpencil.physicswala
+746,2022/07/14,AlwaysOnDisplay,3,1,No,Yes,com.samsung.android.app.aodservice
+747,2022/07/14,Messages,68,4,Yes,No,com.samsung.android.messaging
+748,2022/07/14,RailYatri,358,15,Yes,No,com.railyatri.in.mobile
+749,2022/07/14,Paytm,49,5,Yes,No,net.one97.paytm
+750,2022/07/14,Settings,58,11,Yes,No,com.android.settings
+751,2022/07/14,Gmail,202,9,Yes,No,com.google.android.gm
+752,2022/07/14,Android System,13,5,No,Yes,android
+753,2022/07/14,Uber,58,1,Yes,No,com.ubercab
+754,2022/07/14,Truecaller,2,1,Yes,No,com.truecaller
+755,2022/07/14,One UI Home,730,199,No,Yes,com.sec.android.app.launcher
+756,2022/07/14,Chrome,4125,45,Yes,No,com.android.chrome
+757,2022/07/14,Samsung Notes,1,1,Yes,No,com.samsung.android.app.notes
+758,2022/07/14,Relevel,222,2,Yes,No,com.relevel
+759,2022/07/14,Samsung capture,22,1,No,Yes,com.samsung.android.app.smartcapture
+760,2022/07/14,Cricbuzz,864,10,Yes,No,com.cricbuzz.android
+761,2022/07/14,Twitter,3799,31,Yes,No,com.twitter.android
+762,2022/07/14,Google Play services,10,6,No,Yes,com.google.android.gms
+763,2022/07/14,Pikashow,6058,17,Yes,No,com.offshore.pikachu
+764,2022/07/14,AccuBattery,99,4,Yes,No,com.digibites.accubattery
+765,2022/07/14,LinkedIn,899,3,Yes,No,com.linkedin.android
+766,2022/07/14,Docs,308,5,Yes,No,com.google.android.apps.docs.editors.docs
+767,2022/07/14,Phone,2,1,Yes,No,com.samsung.android.dialer
+768,2022/07/14,Google Play Store,160,6,Yes,No,com.android.vending
+769,2022/07/14,WhatsApp,1197,26,Yes,No,com.whatsapp
+770,2022/07/14,YouTube Vanced,4699,18,Yes,No,com.vanced.android.youtube
+771,2022/07/14,Settings Suggestions,15,3,No,Yes,com.android.settings.intelligence
+772,2022/07/15,PrepLadder,9175,32,Yes,No,com.prepladder.learningapp
+773,2022/07/15,Gboard,1,3,Yes,No,com.google.android.inputmethod.latin
+774,2022/07/15,Wallpaper services,1,1,No,Yes,com.samsung.android.dynamiclock
+775,2022/07/15,My Files,103,13,Yes,No,com.sec.android.app.myfiles
+776,2022/07/15,IRCTC Rail Connect,184,6,Yes,No,cris.org.in.prs.ima
+777,2022/07/16,Relevel,66,1,Yes,No,com.relevel
+778,2022/07/15,Messages,42,2,Yes,No,com.samsung.android.messaging
+779,2022/07/15,Paytm,90,2,Yes,No,net.one97.paytm
+780,2022/07/15,Photos,111,1,Yes,No,com.google.android.apps.photos
+781,2022/07/16,Paytm,124,9,Yes,No,net.one97.paytm
+782,2022/07/16,One UI Home,1627,195,No,Yes,com.sec.android.app.launcher
+783,2022/07/15,One UI Home,1929,357,No,Yes,com.sec.android.app.launcher
+784,2022/07/15,Chrome,2894,43,Yes,No,com.android.chrome
+785,2022/07/15,Relevel,3,1,Yes,No,com.relevel
+786,2022/07/16,Chrome,692,10,Yes,No,com.android.chrome
+787,2022/07/16,Cricbuzz,462,11,Yes,No,com.cricbuzz.android
+788,2022/07/15,Cricbuzz,330,9,Yes,No,com.cricbuzz.android
+789,2022/07/15,Google Play services,16,3,No,Yes,com.google.android.gms
+790,2022/07/16,Files,4,3,No,Yes,com.google.android.documentsui
+791,2022/07/16,LinkedIn,830,8,Yes,No,com.linkedin.android
+792,2022/07/15,Wallpaper and style,25,3,No,Yes,com.samsung.android.app.dressroom
+793,2022/07/15,LinkedIn,530,1,Yes,No,com.linkedin.android
+794,2022/07/15,Find My Device,42,2,Yes,No,com.google.android.apps.adm
+795,2022/07/15,Separate app sound,24,1,No,Yes,com.samsung.android.setting.multisound
+796,2022/07/15,Settings Suggestions,40,11,No,Yes,com.android.settings.intelligence
+797,2022/07/15,WAMR,1,1,Yes,No,com.drilens.wamr
+798,2022/07/15,Call settings,25,1,No,Yes,com.samsung.android.app.telephonyui
+799,2022/07/15,Telegram,124,9,Yes,No,org.telegram.messenger
+800,2022/07/15,Video Player,2519,10,No,Yes,com.samsung.android.video
+801,2022/07/16,Telegram,85,1,Yes,No,org.telegram.messenger
+802,2022/07/15,Sunrise,159,7,Yes,No,mobi.lockdown.sunrise
+803,2022/07/15,Camera,102,9,Yes,No,com.sec.android.app.camera
+804,2022/07/16,Camera,109,7,Yes,No,com.sec.android.app.camera
+805,2022/07/15,Maps,148,4,Yes,No,com.google.android.apps.maps
+806,2022/07/15,YouTube Music,149,6,Yes,No,com.vanced.android.apps.youtube.music
+807,2022/07/16,RailYatri,4,1,Yes,No,com.railyatri.in.mobile
+808,2022/07/15,RailYatri,926,12,Yes,No,com.railyatri.in.mobile
+809,2022/07/15,Accessibility,270,8,Yes,No,com.samsung.accessibility
+810,2022/07/15,Apps,10,1,No,Yes,com.samsung.android.app.appsedge
+811,2022/07/16,Maps,1088,17,Yes,No,com.google.android.apps.maps
+812,2022/07/16,Phone calls,0,1,No,Yes,com.android.server.telecom
+813,2022/07/16,Messages,3,1,Yes,No,com.samsung.android.messaging
+814,2022/07/15,Settings,550,51,Yes,No,com.android.settings
+815,2022/07/16,Settings,125,11,Yes,No,com.android.settings
+816,2022/07/15,Samsung capture,18,3,No,Yes,com.samsung.android.app.smartcapture
+817,2022/07/16,Gmail,47,1,Yes,No,com.google.android.gm
+818,2022/07/15,Gmail,52,1,Yes,No,com.google.android.gm
+819,2022/07/15,Clock,17,3,Yes,No,com.sec.android.app.clockpackage
+820,2022/07/16,WhatsApp,1899,51,Yes,No,com.whatsapp
+821,2022/07/15,WhatsApp,2994,67,Yes,No,com.whatsapp
+822,2022/07/16,YouTube Vanced,29,1,Yes,No,com.vanced.android.youtube
+823,2022/07/15,YouTube Vanced,1184,2,Yes,No,com.vanced.android.youtube
+824,2022/07/15,SoundAlive,23,5,No,Yes,com.sec.android.app.soundalive
+825,2022/07/15,Galaxy Themes,16,1,No,Yes,com.samsung.android.themestore
+826,2022/07/16,Xodo Docs,251,16,Yes,No,com.xodo.pdf.reader
+827,2022/07/15,Xodo Docs,1761,19,Yes,No,com.xodo.pdf.reader
+828,2022/07/15,Finder,43,12,Yes,No,com.samsung.android.app.galaxyfinder
+829,2022/07/16,Finder,47,6,Yes,No,com.samsung.android.app.galaxyfinder
+830,2022/07/15,Speech Services by Google,0,2,No,Yes,com.google.android.tts
+831,2022/07/15,Photo Editor,122,1,No,Yes,com.sec.android.mimage.photoretouching
+832,2022/07/16,Drive,0,2,Yes,No,com.google.android.apps.docs
+833,2022/07/15,Samsung text-to-speech engine,5,2,No,Yes,com.samsung.SMT
+834,2022/07/15,Adapt sound,2,1,No,Yes,com.sec.hearingadjust
+835,2022/07/15,Keep notes,1,1,Yes,No,com.google.android.keep
+836,2022/07/15,Truecaller,14,1,Yes,No,com.truecaller
+837,2022/07/16,AccuBattery,48,1,Yes,No,com.digibites.accubattery
+838,2022/07/15,AccuBattery,100,8,Yes,No,com.digibites.accubattery
+839,2022/07/16,GPay,255,12,Yes,No,com.google.android.apps.nbu.paisa.user
+840,2022/07/16,Contacts,21,2,Yes,No,com.samsung.android.app.contacts
+841,2022/07/15,GPay,69,2,Yes,No,com.google.android.apps.nbu.paisa.user
+842,2022/07/15,System UI,40,2,No,Yes,com.android.systemui
+843,2022/07/15,Android System Intelligence,18,1,No,Yes,com.google.android.as
+844,2022/07/16,Package installer,1,1,No,Yes,com.google.android.packageinstaller
+845,2022/07/16,Rapido,1235,24,Yes,No,com.rapido.passenger
+846,2022/07/15,Call,378,16,Yes,No,com.samsung.android.incallui
+847,2022/07/16,Call,4017,31,Yes,No,com.samsung.android.incallui
+848,2022/07/16,Google,31,2,Yes,No,com.google.android.googlequicksearchbox
+849,2022/07/15,Google,71,7,Yes,No,com.google.android.googlequicksearchbox
+850,2022/07/15,Rapido,96,2,Yes,No,com.rapido.passenger
+851,2022/07/15,Where is my Train,2567,77,Yes,No,com.whereismytrain.android
+852,2022/07/16,Where is my Train,269,15,Yes,No,com.whereismytrain.android
+853,2022/07/15,Permission controller,16,7,No,Yes,com.google.android.permissioncontroller
+854,2022/07/16,Permission controller,3,4,No,Yes,com.google.android.permissioncontroller
+855,2022/07/16,Android System,35,7,No,Yes,android
+856,2022/07/15,Android System,1,1,No,Yes,android
+857,2022/07/15,Uber,69,1,Yes,No,com.ubercab
+858,2022/07/16,Uber,58,1,Yes,No,com.ubercab
+859,2022/07/16,Twitter,2875,25,Yes,No,com.twitter.android
+860,2022/07/15,Twitter,2021,38,Yes,No,com.twitter.android
+861,2022/07/16,Phone,228,31,Yes,No,com.samsung.android.dialer
+862,2022/07/15,Phone,37,3,Yes,No,com.samsung.android.dialer
+863,2022/07/15,Device care,130,4,Yes,No,com.samsung.android.lool
+864,2022/07/15,MyJio,324,7,Yes,No,com.jio.myjio
+865,2022/07/15,Google Play Store,269,9,Yes,No,com.android.vending
+866,2022/07/15,Gallery,916,14,Yes,No,com.sec.android.gallery3d
+867,2022/07/16,Gallery,61,4,Yes,No,com.sec.android.gallery3d
+868,2022/07/18,Xodo Docs,217,7,Yes,No,com.xodo.pdf.reader
+869,2022/07/18,My Files,143,3,Yes,No,com.sec.android.app.myfiles
+870,2022/07/18,Relevel,149,4,Yes,No,com.relevel
+871,2022/07/17,Photo Editor,205,1,No,Yes,com.sec.android.mimage.photoretouching
+872,2022/07/18,Drive,54,2,Yes,No,com.google.android.apps.docs
+873,2022/07/17,JioCloud,412,4,Yes,No,jio.cloud.drive
+874,2022/07/18,Truecaller,25,2,Yes,No,com.truecaller
+875,2022/07/17,Paytm,83,8,Yes,No,net.one97.paytm
+876,2022/07/18,One UI Home,1016,151,No,Yes,com.sec.android.app.launcher
+877,2022/07/18,Cricbuzz,766,10,Yes,No,com.cricbuzz.android
+878,2022/07/17,One UI Home,878,126,No,Yes,com.sec.android.app.launcher
+879,2022/07/18,Paytm,28,3,Yes,No,net.one97.paytm
+880,2022/07/18,Files by Google,60,3,Yes,No,com.google.android.apps.nbu.files
+881,2022/07/17,Chrome,1574,27,Yes,No,com.android.chrome
+882,2022/07/18,AccuBattery,119,2,Yes,No,com.digibites.accubattery
+883,2022/07/17,Cricbuzz,1169,17,Yes,No,com.cricbuzz.android
+884,2022/07/18,Chrome,2314,25,Yes,No,com.android.chrome
+885,2022/07/17,Finder,19,6,Yes,No,com.samsung.android.app.galaxyfinder
+886,2022/07/18,Keep notes,216,10,Yes,No,com.google.android.keep
+887,2022/07/18,Finder,36,12,Yes,No,com.samsung.android.app.galaxyfinder
+888,2022/07/17,Google Play services,2,1,No,Yes,com.google.android.gms
+889,2022/07/17,AccuBattery,25,1,Yes,No,com.digibites.accubattery
+890,2022/07/18,GPay,483,8,Yes,No,com.google.android.apps.nbu.paisa.user
+891,2022/07/17,GPay,89,5,Yes,No,com.google.android.apps.nbu.paisa.user
+892,2022/07/17,Contacts,28,1,Yes,No,com.samsung.android.app.contacts
+893,2022/07/18,Naukri.com,23,2,Yes,No,naukriApp.appModules.login
+894,2022/07/17,Camera,56,4,Yes,No,com.sec.android.app.camera
+895,2022/07/17,Call,716,3,Yes,No,com.samsung.android.incallui
+896,2022/07/17,Package installer,10,2,No,Yes,com.google.android.packageinstaller
+897,2022/07/18,Call,11096,24,Yes,No,com.samsung.android.incallui
+898,2022/07/18,Camera,4,1,Yes,No,com.sec.android.app.camera
+899,2022/07/18,Rapido,25,2,Yes,No,com.rapido.passenger
+900,2022/07/17,Rapido,0,1,Yes,No,com.rapido.passenger
+901,2022/07/18,YouTube Vanced,77,2,Yes,No,com.vanced.android.youtube
+902,2022/07/18,Telegram,124,4,Yes,No,org.telegram.messenger
+903,2022/07/17,Telegram,39,2,Yes,No,org.telegram.messenger
+904,2022/07/17,Sunrise,91,1,Yes,No,mobi.lockdown.sunrise
+905,2022/07/18,Sunrise,90,2,Yes,No,mobi.lockdown.sunrise
+906,2022/07/17,Language Curry,696,5,Yes,No,com.languagecurry
+907,2022/07/18,Google,9,2,Yes,No,com.google.android.googlequicksearchbox
+908,2022/07/18,Where is my Train,4,1,Yes,No,com.whereismytrain.android
+909,2022/07/17,Permission controller,3,2,No,Yes,com.google.android.permissioncontroller
+910,2022/07/18,Maps,5,2,Yes,No,com.google.android.apps.maps
+911,2022/07/18,Android System,8,3,No,Yes,android
+912,2022/07/17,Android System,5,2,No,Yes,android
+913,2022/07/18,Messages,11,3,Yes,No,com.samsung.android.messaging
+914,2022/07/17,Settings,34,9,Yes,No,com.android.settings
+915,2022/07/18,Settings,25,5,Yes,No,com.android.settings
+916,2022/07/18,Gmail,49,4,Yes,No,com.google.android.gm
+917,2022/07/17,Gmail,7,1,Yes,No,com.google.android.gm
+918,2022/07/18,Uber,119,3,Yes,No,com.ubercab
+919,2022/07/17,YourHour,50,3,Yes,No,com.mindefy.phoneaddiction.mobilepe
+920,2022/07/17,Pikashow,3671,21,Yes,No,com.offshore.pikachu
+921,2022/07/18,Twitter,1407,17,Yes,No,com.twitter.android
+922,2022/07/17,Twitter,1758,25,Yes,No,com.twitter.android
+923,2022/07/18,Phone,148,16,Yes,No,com.samsung.android.dialer
+924,2022/07/17,Phone,10,5,Yes,No,com.samsung.android.dialer
+925,2022/07/18,Google Play Store,36,2,Yes,No,com.android.vending
+926,2022/07/17,Google Play Store,84,4,Yes,No,com.android.vending
+927,2022/07/18,WhatsApp,932,26,Yes,No,com.whatsapp
+928,2022/07/17,WhatsApp,790,20,Yes,No,com.whatsapp
+929,2022/07/17,YouTube Vanced,2285,5,Yes,No,com.vanced.android.youtube
+930,2022/07/17,Gallery,83,6,Yes,No,com.sec.android.gallery3d
+931,2022/07/19,Call,3323,23,Yes,No,com.samsung.android.incallui
+932,2022/07/19,YouTube Vanced,65,2,Yes,No,com.vanced.android.youtube
+933,2022/07/19,Telegram,21,1,Yes,No,org.telegram.messenger
+934,2022/07/19,Permission controller,2,2,No,Yes,com.google.android.permissioncontroller
+935,2022/07/19,Xodo Docs,307,7,Yes,No,com.xodo.pdf.reader
+936,2022/07/19,Android System Intelligence,15,1,No,Yes,com.google.android.as
+937,2022/07/19,YouTube Music,33,3,Yes,No,com.vanced.android.apps.youtube.music
+938,2022/07/19,Calculator,9,1,Yes,No,com.sec.android.app.popupcalculator
+939,2022/07/19,Relevel,98,4,Yes,No,com.relevel
+940,2022/07/19,The Hindu ePaper,30,2,Yes,No,com.epaper.thehindu.android
+941,2022/07/19,One UI Home,949,127,No,Yes,com.sec.android.app.launcher
+942,2022/07/19,Cricbuzz,830,13,Yes,No,com.cricbuzz.android
+943,2022/07/19,Android System,2,3,No,Yes,android
+944,2022/07/19,Truecaller,20,2,Yes,No,com.truecaller
+945,2022/07/19,Messages,52,2,Yes,No,com.samsung.android.messaging
+946,2022/07/19,Paytm,42,6,Yes,No,net.one97.paytm
+947,2022/07/19,Settings,58,11,Yes,No,com.android.settings
+948,2022/07/19,Samsung capture,11,1,No,Yes,com.samsung.android.app.smartcapture
+949,2022/07/19,AccuBattery,159,6,Yes,No,com.digibites.accubattery
+950,2022/07/19,Finder,18,6,Yes,No,com.samsung.android.app.galaxyfinder
+951,2022/07/19,Chrome,739,13,Yes,No,com.android.chrome
+952,2022/07/19,YourHour,24,1,Yes,No,com.mindefy.phoneaddiction.mobilepe
+953,2022/07/19,Gmail,87,2,Yes,No,com.google.android.gm
+954,2022/07/19,Phone,174,20,Yes,No,com.samsung.android.dialer
+955,2022/07/19,Gallery,5,1,Yes,No,com.sec.android.gallery3d
+956,2022/07/19,GPay,249,12,Yes,No,com.google.android.apps.nbu.paisa.user
+957,2022/07/19,MyJio,4,1,Yes,No,com.jio.myjio
+958,2022/07/19,Google Play services,1,1,No,Yes,com.google.android.gms
+959,2022/07/19,Contacts,11,1,Yes,No,com.samsung.android.app.contacts
+960,2022/07/19,Files,8,4,No,Yes,com.google.android.documentsui
+961,2022/07/19,Twitter,2133,21,Yes,No,com.twitter.android
+962,2022/07/19,WhatsApp,698,20,Yes,No,com.whatsapp
+963,2022/07/19,Naukri.com,338,4,Yes,No,naukriApp.appModules.login
+964,2022/07/21,MyJio,291,4,Yes,No,com.jio.myjio
+965,2022/07/20,MyJio,2,2,Yes,No,com.jio.myjio
+966,2022/07/20,Physics Wallah,72,1,Yes,No,xyz.penpencil.physicswala
+967,2022/07/20,YourHour,34,2,Yes,No,com.mindefy.phoneaddiction.mobilepe
+968,2022/07/20,Gallery,16,5,Yes,No,com.sec.android.gallery3d
+969,2022/07/21,Cricbuzz,256,6,Yes,No,com.cricbuzz.android
+970,2022/07/20,Settings,14,4,Yes,No,com.android.settings
+971,2022/07/20,Relevel,157,3,Yes,No,com.relevel
+972,2022/07/21,GPay,198,7,Yes,No,com.google.android.apps.nbu.paisa.user
+973,2022/07/20,GPay,36,1,Yes,No,com.google.android.apps.nbu.paisa.user
+974,2022/07/21,Settings,3,2,Yes,No,com.android.settings
+975,2022/07/21,Relevel,66,1,Yes,No,com.relevel
+976,2022/07/21,WhatsApp,462,13,Yes,No,com.whatsapp
+977,2022/07/20,WhatsApp,725,19,Yes,No,com.whatsapp
+978,2022/07/20,Naukri.com,3,1,Yes,No,naukriApp.appModules.login
+979,2022/07/21,Gallery,28,3,Yes,No,com.sec.android.gallery3d
+980,2022/07/21,One UI Home,776,142,No,Yes,com.sec.android.app.launcher
+981,2022/07/20,One UI Home,582,106,No,Yes,com.sec.android.app.launcher
+982,2022/07/20,PrepLadder,127,1,Yes,No,com.prepladder.learningapp
+983,2022/07/21,Xodo Docs,40,1,Yes,No,com.xodo.pdf.reader
+984,2022/07/20,Xodo Docs,44,3,Yes,No,com.xodo.pdf.reader
+985,2022/07/21,Video Player,9159,4,No,Yes,com.samsung.android.video
+986,2022/07/21,1DM,3,1,Yes,No,idm.internet.download.manager
+987,2022/07/21,Google Play services,9,2,No,Yes,com.google.android.gms
+988,2022/07/20,Chrome,1370,18,Yes,No,com.android.chrome
+989,2022/07/21,Sunrise,9,1,Yes,No,mobi.lockdown.sunrise
+990,2022/07/20,Cricbuzz,588,6,Yes,No,com.cricbuzz.android
+991,2022/07/21,Chrome,662,17,Yes,No,com.android.chrome
+992,2022/07/20,Finder,2,1,Yes,No,com.samsung.android.app.galaxyfinder
+993,2022/07/21,Google,42,3,Yes,No,com.google.android.googlequicksearchbox
+994,2022/07/21,Finder,34,13,Yes,No,com.samsung.android.app.galaxyfinder
+995,2022/07/20,Paytm,191,8,Yes,No,net.one97.paytm
+996,2022/07/20,Truecaller,88,3,Yes,No,com.truecaller
+997,2022/07/20,Gmail,136,5,Yes,No,com.google.android.gm
+998,2022/07/21,Keep notes,34,2,Yes,No,com.google.android.keep
+999,2022/07/21,Android System,3,1,No,Yes,android
+1000,2022/07/20,Android System,2,1,No,Yes,android
+1001,2022/07/21,Google Play Store,73,3,Yes,No,com.android.vending
+1002,2022/07/21,AccuBattery,57,2,Yes,No,com.digibites.accubattery
+1003,2022/07/20,YouTube Vanced,1208,8,Yes,No,com.vanced.android.youtube
+1004,2022/07/21,Package installer,13,1,No,Yes,com.google.android.packageinstaller
+1005,2022/07/21,YouTube Vanced,2277,8,Yes,No,com.vanced.android.youtube
+1006,2022/07/21,Pikashow,71,6,Yes,No,com.offshore.pikachu
+1007,2022/07/21,Phone,44,5,Yes,No,com.samsung.android.dialer
+1008,2022/07/20,LinkedIn,758,1,Yes,No,com.linkedin.android
+1009,2022/07/20,Phone,37,8,Yes,No,com.samsung.android.dialer
+1010,2022/07/20,Camera,30,5,Yes,No,com.sec.android.app.camera
+1011,2022/07/21,Camera,3,2,Yes,No,com.sec.android.app.camera
+1012,2022/07/21,Language Curry,178,1,Yes,No,com.languagecurry
+1013,2022/07/20,WAMR,12,1,Yes,No,com.drilens.wamr
+1014,2022/07/21,Swiggy,168,7,Yes,No,in.swiggy.android
+1015,2022/07/21,WAMR,15,2,Yes,No,com.drilens.wamr
+1016,2022/07/21,Twitter,1152,12,Yes,No,com.twitter.android
+1017,2022/07/20,Twitter,852,13,Yes,No,com.twitter.android
+1018,2022/07/21,Gboard,0,4,Yes,No,com.google.android.inputmethod.latin
+1019,2022/07/21,Permission controller,1,3,No,Yes,com.google.android.permissioncontroller
+1020,2022/07/21,Maps,1214,22,Yes,No,com.google.android.apps.maps
+1021,2022/07/20,Call,147,12,Yes,No,com.samsung.android.incallui
+1022,2022/07/20,Messages,137,6,Yes,No,com.samsung.android.messaging
+1023,2022/07/21,Call,2425,9,Yes,No,com.samsung.android.incallui
+1024,2022/07/21,Messages,930,29,Yes,No,com.samsung.android.messaging
+1025,2022/07/22,YourHour,463,17,Yes,No,com.mindefy.phoneaddiction.mobilepe
+1026,2022/07/22,Uber,146,1,Yes,No,com.ubercab
+1027,2022/07/22,Gmail,21,3,Yes,No,com.google.android.gm
+1028,2022/07/22,Cricbuzz,821,12,Yes,No,com.cricbuzz.android
+1029,2022/07/22,Android System,7,2,No,Yes,android
+1030,2022/07/22,GPay,33,1,Yes,No,com.google.android.apps.nbu.paisa.user
+1031,2022/07/22,Settings,36,6,Yes,No,com.android.settings
+1032,2022/07/22,Samsung capture,10,1,No,Yes,com.samsung.android.app.smartcapture
+1033,2022/07/22,WhatsApp,1526,32,Yes,No,com.whatsapp
+1034,2022/07/22,AccuBattery,7,2,Yes,No,com.digibites.accubattery
+1035,2022/07/22,Naukri.com,42,1,Yes,No,naukriApp.appModules.login
+1036,2022/07/22,Clock,90,2,Yes,No,com.sec.android.app.clockpackage
+1037,2022/07/22,Gallery,17,3,Yes,No,com.sec.android.gallery3d
+1038,2022/07/22,Phone,52,8,Yes,No,com.samsung.android.dialer
+1039,2022/07/22,One UI Home,778,122,No,Yes,com.sec.android.app.launcher
+1040,2022/07/22,Contacts,2,1,Yes,No,com.samsung.android.app.contacts
+1041,2022/07/22,Photos,90,2,Yes,No,com.google.android.apps.photos
+1042,2022/07/22,Google Play Store,148,8,Yes,No,com.android.vending
+1043,2022/07/22,reader (Uninstalled),31,3,Yes,No,csv.file.reader
+1044,2022/07/22,WAMR,32,1,Yes,No,com.drilens.wamr
+1045,2022/07/22,Package installer,16,3,No,Yes,com.google.android.packageinstaller
+1046,2022/07/22,android (Uninstalled),33,1,Yes,No,com.colivecustomerapp.android
+1047,2022/07/22,Rapido,97,2,Yes,No,com.rapido.passenger
+1048,2022/07/22,Camera,102,6,Yes,No,com.sec.android.app.camera
+1049,2022/07/22,Sunrise,56,1,Yes,No,mobi.lockdown.sunrise
+1050,2022/07/22,Telegram,185,5,Yes,No,org.telegram.messenger
+1051,2022/07/22,OYO,547,4,Yes,No,com.oyo.consumer
+1052,2022/07/22,Files,9,4,No,Yes,com.google.android.documentsui
+1053,2022/07/22,Twitter,1013,7,Yes,No,com.twitter.android
+1054,2022/07/22,Permission controller,7,6,No,Yes,com.google.android.permissioncontroller
+1055,2022/07/22,Finder,30,8,Yes,No,com.samsung.android.app.galaxyfinder
+1056,2022/07/22,Maps,1071,28,Yes,No,com.google.android.apps.maps
+1057,2022/07/22,Chrome,697,12,Yes,No,com.android.chrome
+1058,2022/07/22,Google,113,3,Yes,No,com.google.android.googlequicksearchbox
+1059,2022/07/22,Call,1749,5,Yes,No,com.samsung.android.incallui
+1060,2022/07/22,Messages,3,1,Yes,No,com.samsung.android.messaging
+1061,2022/07/23,YourHour,55,2,Yes,No,com.mindefy.phoneaddiction.mobilepe
+1062,2022/07/23,Gmail,166,6,Yes,No,com.google.android.gm
+1063,2022/07/23,Cricbuzz,1245,19,Yes,No,com.cricbuzz.android
+1064,2022/07/23,Relevel,148,1,Yes,No,com.relevel
+1065,2022/07/23,GPay,26,1,Yes,No,com.google.android.apps.nbu.paisa.user
+1066,2022/07/23,Samsung Notes,46,2,Yes,No,com.samsung.android.app.notes
+1067,2022/07/23,Samsung capture,4,1,No,Yes,com.samsung.android.app.smartcapture
+1068,2022/07/23,Settings,4,1,Yes,No,com.android.settings
+1069,2022/07/23,WhatsApp,741,16,Yes,No,com.whatsapp
+1070,2022/07/23,Naukri.com,365,2,Yes,No,naukriApp.appModules.login
+1071,2022/07/23,Clock,52,3,Yes,No,com.sec.android.app.clockpackage
+1072,2022/07/23,Phone,26,3,Yes,No,com.samsung.android.dialer
+1073,2022/07/23,One UI Home,838,107,No,Yes,com.sec.android.app.launcher
+1074,2022/07/23,YouTube Vanced,426,3,Yes,No,com.vanced.android.youtube
+1075,2022/07/23,Photos,56,1,Yes,No,com.google.android.apps.photos
+1076,2022/07/23,Galaxy Store,2,1,Yes,No,com.sec.android.app.samsungapps
+1077,2022/07/23,Xodo Docs,88,3,Yes,No,com.xodo.pdf.reader
+1078,2022/07/23,StepSetGo,614,5,Yes,No,com.pepkit.ssg
+1079,2022/07/23,Camera,139,2,Yes,No,com.sec.android.app.camera
+1080,2022/07/23,Twitter,1284,24,Yes,No,com.twitter.android
+1081,2022/07/23,Maps,84,1,Yes,No,com.google.android.apps.maps
+1082,2022/07/23,Google,33,1,Yes,No,com.google.android.googlequicksearchbox
+1083,2022/07/23,Finder,23,3,Yes,No,com.samsung.android.app.galaxyfinder
+1084,2022/07/23,Chrome,2518,12,Yes,No,com.android.chrome
+1085,2022/07/23,Translate,284,14,Yes,No,com.google.android.apps.translate
+1086,2022/07/23,Truecaller,2,1,Yes,No,com.truecaller
+1087,2022/07/23,Call,985,5,Yes,No,com.samsung.android.incallui
+1088,2022/07/24,Settings,7,3,Yes,No,com.android.settings
+1089,2022/07/24,Uber,2,1,Yes,No,com.ubercab
+1090,2022/07/24,Gmail,52,5,Yes,No,com.google.android.gm
+1091,2022/07/24,Android System,0,1,No,Yes,android
+1092,2022/07/24,Cricbuzz,1094,19,Yes,No,com.cricbuzz.android
+1093,2022/07/24,GPay,21,1,Yes,No,com.google.android.apps.nbu.paisa.user
+1094,2022/07/24,YourHour,95,4,Yes,No,com.mindefy.phoneaddiction.mobilepe
+1095,2022/07/24,Samsung capture,9,1,No,Yes,com.samsung.android.app.smartcapture
+1096,2022/07/24,AccuBattery,16,1,Yes,No,com.digibites.accubattery
+1097,2022/07/24,Twitter,3046,26,Yes,No,com.twitter.android
+1098,2022/07/24,Clock,80,1,Yes,No,com.sec.android.app.clockpackage
+1099,2022/07/24,One UI Home,971,127,No,Yes,com.sec.android.app.launcher
+1100,2022/07/24,YouTube Vanced,3214,13,Yes,No,com.vanced.android.youtube
+1101,2022/07/24,Phone,60,10,Yes,No,com.samsung.android.dialer
+1102,2022/07/24,Pikashow,60,1,Yes,No,com.offshore.pikachu
+1103,2022/07/24,Google Play Store,39,5,Yes,No,com.android.vending
+1104,2022/07/24,WhatsApp,730,20,Yes,No,com.whatsapp
+1105,2022/07/24,MyJio,1,1,Yes,No,com.jio.myjio
+1106,2022/07/24,FanCode,1538,4,Yes,No,com.dream11sportsguru
+1107,2022/07/24,Xodo Docs,164,5,Yes,No,com.xodo.pdf.reader
+1108,2022/07/24,Telegram,65,3,Yes,No,org.telegram.messenger
+1109,2022/07/24,Call,231,11,Yes,No,com.samsung.android.incallui
+1110,2022/07/24,WAMR,14,1,Yes,No,com.drilens.wamr
+1111,2022/07/24,Camera,8,1,Yes,No,com.sec.android.app.camera
+1112,2022/07/24,PrepLadder,39,1,Yes,No,com.prepladder.learningapp
+1113,2022/07/24,Sunrise,17,2,Yes,No,mobi.lockdown.sunrise
+1114,2022/07/24,Finder,41,7,Yes,No,com.samsung.android.app.galaxyfinder
+1115,2022/07/24,Maps,192,1,Yes,No,com.google.android.apps.maps
+1116,2022/07/24,Google,36,6,Yes,No,com.google.android.googlequicksearchbox
+1117,2022/07/24,Chrome,4939,32,Yes,No,com.android.chrome
+1118,2022/07/24,Truecaller,6,3,Yes,No,com.truecaller
+1119,2022/07/24,Paytm,55,2,Yes,No,net.one97.paytm
+1120,2022/07/25,Galaxy Store,6,1,Yes,No,com.sec.android.app.samsungapps
+1121,2022/07/25,Settings,64,8,Yes,No,com.android.settings
+1122,2022/07/25,Keep notes,211,5,Yes,No,com.google.android.keep
+1123,2022/07/25,Gmail,140,10,Yes,No,com.google.android.gm
+1124,2022/07/25,Android System,5,2,No,Yes,android
+1125,2022/07/25,Truecaller,1,1,Yes,No,com.truecaller
+1126,2022/07/25,One UI Home,1378,136,No,Yes,com.sec.android.app.launcher
+1127,2022/07/25,Chrome,3266,29,Yes,No,com.android.chrome
+1128,2022/07/25,GPay,502,9,Yes,No,com.google.android.apps.nbu.paisa.user
+1129,2022/07/25,YourHour,29,1,Yes,No,com.mindefy.phoneaddiction.mobilepe
+1130,2022/07/25,Cricbuzz,1057,13,Yes,No,com.cricbuzz.android
+1131,2022/07/25,Twitter,2800,25,Yes,No,com.twitter.android
+1132,2022/07/25,AccuBattery,41,3,Yes,No,com.digibites.accubattery
+1133,2022/07/25,LinkedIn,1153,6,Yes,No,com.linkedin.android
+1134,2022/07/25,Clock,58,4,Yes,No,com.sec.android.app.clockpackage
+1135,2022/07/25,Phone,56,9,Yes,No,com.samsung.android.dialer
+1136,2022/07/25,Google Play Store,56,2,Yes,No,com.android.vending
+1137,2022/07/25,Gallery,103,7,Yes,No,com.sec.android.gallery3d
+1138,2022/07/25,WhatsApp,800,18,Yes,No,com.whatsapp
+1139,2022/07/25,YouTube Vanced,4566,9,Yes,No,com.vanced.android.youtube
+1140,2022/07/25,Settings Suggestions,3,1,No,Yes,com.android.settings.intelligence
+1141,2022/07/25,FanCode,684,3,Yes,No,com.dream11sportsguru
+1142,2022/07/25,Telegram,15,1,Yes,No,org.telegram.messenger
+1143,2022/07/25,Call,381,12,Yes,No,com.samsung.android.incallui
+1144,2022/07/25,Gboard,0,2,Yes,No,com.google.android.inputmethod.latin
+1145,2022/07/25,Google,127,13,Yes,No,com.google.android.googlequicksearchbox
+1146,2022/07/25,StepSetGo,253,2,Yes,No,com.pepkit.ssg
+1147,2022/07/25,Files,2,1,No,Yes,com.google.android.documentsui
+1148,2022/07/25,Camera,143,4,Yes,No,com.sec.android.app.camera
+1149,2022/07/25,Xodo Docs,153,5,Yes,No,com.xodo.pdf.reader
+1150,2022/07/25,My Files,20,2,Yes,No,com.sec.android.app.myfiles
+1151,2022/07/25,Finder,39,6,Yes,No,com.samsung.android.app.galaxyfinder
+1152,2022/07/25,Translate,34,1,Yes,No,com.google.android.apps.translate
+1153,2022/07/25,Permission controller,2,2,No,Yes,com.google.android.permissioncontroller
+1154,2022/07/25,Photo Editor,328,3,No,Yes,com.sec.android.mimage.photoretouching
+1155,2022/07/26,Settings,159,18,Yes,No,com.android.settings
+1156,2022/07/27,Paytm,47,3,Yes,No,net.one97.paytm
+1157,2022/07/27,Settings,57,5,Yes,No,com.android.settings
+1158,2022/07/27,One UI Home,693,156,No,Yes,com.sec.android.app.launcher
+1159,2022/07/26,One UI Home,656,102,No,Yes,com.sec.android.app.launcher
+1160,2022/07/26,Chrome,3237,22,Yes,No,com.android.chrome
+1161,2022/07/26,YourHour,18,3,Yes,No,com.mindefy.phoneaddiction.mobilepe
+1162,2022/07/26,Relevel,29,1,Yes,No,com.relevel
+1163,2022/07/27,Chrome,1709,21,Yes,No,com.android.chrome
+1164,2022/07/27,Cricbuzz,1547,20,Yes,No,com.cricbuzz.android
+1165,2022/07/26,Cricbuzz,317,3,Yes,No,com.cricbuzz.android
+1166,2022/07/27,Google Play services,10,3,No,Yes,com.google.android.gms
+1167,2022/07/27,Twitter,3141,25,Yes,No,com.twitter.android
+1168,2022/07/27,Files,9,1,No,Yes,com.google.android.documentsui
+1169,2022/07/26,Twitter,3557,33,Yes,No,com.twitter.android
+1170,2022/07/26,Files,5,1,No,Yes,com.google.android.documentsui
+1171,2022/07/27,Mappls (MapmyIndia Move),2,1,Yes,No,com.mmi.maps
+1172,2022/07/26,Mappls (MapmyIndia Move),73,6,Yes,No,com.mmi.maps
+1173,2022/07/27,GPay,27,1,Yes,No,com.google.android.apps.nbu.paisa.user
+1174,2022/07/26,GPay,130,10,Yes,No,com.google.android.apps.nbu.paisa.user
+1175,2022/07/26,MyJio,111,4,Yes,No,com.jio.myjio
+1176,2022/07/26,Clock,7,1,Yes,No,com.sec.android.app.clockpackage
+1177,2022/07/27,WhatsApp,393,14,Yes,No,com.whatsapp
+1178,2022/07/26,WhatsApp,707,20,Yes,No,com.whatsapp
+1179,2022/07/26,Gallery,43,2,Yes,No,com.sec.android.gallery3d
+1180,2022/07/27,Gallery,129,12,Yes,No,com.sec.android.gallery3d
+1181,2022/07/27,Tinder,1507,24,Yes,No,com.tinder
+1182,2022/07/27,Package installer,1,1,No,Yes,com.google.android.packageinstaller
+1183,2022/07/27,FanCode,724,7,Yes,No,com.dream11sportsguru
+1184,2022/07/27,Google,35,2,Yes,No,com.google.android.googlequicksearchbox
+1185,2022/07/26,Google,33,3,Yes,No,com.google.android.googlequicksearchbox
+1186,2022/07/26,StepSetGo,78,1,Yes,No,com.pepkit.ssg
+1187,2022/07/26,Xodo Docs,64,2,Yes,No,com.xodo.pdf.reader
+1188,2022/07/26,Finder,5,2,Yes,No,com.samsung.android.app.galaxyfinder
+1189,2022/07/27,Finder,8,2,Yes,No,com.samsung.android.app.galaxyfinder
+1190,2022/07/26,YouTube Music,848,2,Yes,No,com.vanced.android.apps.youtube.music
+1191,2022/07/26,Wi-Fi tips,38,4,No,Yes,com.samsung.android.net.wifi.wifiguider
+1192,2022/07/27,Photo Editor,29,1,No,Yes,com.sec.android.mimage.photoretouching
+1193,2022/07/27,Messages,36,4,Yes,No,com.samsung.android.messaging
+1194,2022/07/27,Photos,95,4,Yes,No,com.google.android.apps.photos
+1195,2022/07/27,Android System,19,1,No,Yes,android
+1196,2022/07/26,Android System,5,1,No,Yes,android
+1197,2022/07/27,Samsung capture,106,3,No,Yes,com.samsung.android.app.smartcapture
+1198,2022/07/26,Gmail,34,1,Yes,No,com.google.android.gm
+1199,2022/07/27,Phone,26,4,Yes,No,com.samsung.android.dialer
+1200,2022/07/26,Phone,42,6,Yes,No,com.samsung.android.dialer
+1201,2022/07/27,LinkedIn,55,1,Yes,No,com.linkedin.android
+1202,2022/07/27,Contacts,18,1,Yes,No,com.samsung.android.app.contacts
+1203,2022/07/27,Google Play Store,170,9,Yes,No,com.android.vending
+1204,2022/07/26,Google Play Store,29,1,Yes,No,com.android.vending
+1205,2022/07/27,YouTube Vanced,3863,11,Yes,No,com.vanced.android.youtube
+1206,2022/07/26,YouTube Vanced,1360,3,Yes,No,com.vanced.android.youtube
+1207,2022/07/26,Telegram,183,3,Yes,No,org.telegram.messenger
+1208,2022/07/26,Call,1127,9,Yes,No,com.samsung.android.incallui
+1209,2022/07/27,Telegram,13,3,Yes,No,org.telegram.messenger
+1210,2022/07/27,Call,1012,1,Yes,No,com.samsung.android.incallui
+1211,2022/07/26,Gboard,0,2,Yes,No,com.google.android.inputmethod.latin
+1212,2022/07/27,Camera,153,8,Yes,No,com.sec.android.app.camera
+1213,2022/07/26,Translate,97,1,Yes,No,com.google.android.apps.translate
+1214,2022/07/26,Permission controller,9,3,No,Yes,com.google.android.permissioncontroller
+1215,2022/07/27,Relevel,34,3,Yes,No,com.relevel
+1216,2022/07/27,Permission controller,9,10,No,Yes,com.google.android.permissioncontroller
+1217,2022/07/26,Drive,20,1,Yes,No,com.google.android.apps.docs
+1218,2022/07/26,Messages,169,5,Yes,No,com.samsung.android.messaging
+1219,2022/07/27,Maps,83,1,Yes,No,com.google.android.apps.maps
+1220,2022/07/28,Photos,41,1,Yes,No,com.google.android.apps.photos
+1221,2022/07/28,Android System,7,2,No,Yes,android
+1222,2022/07/28,Messages,39,1,Yes,No,com.samsung.android.messaging
+1223,2022/07/28,One UI Home,808,155,No,Yes,com.sec.android.app.launcher
+1224,2022/07/28,Settings,100,6,Yes,No,com.android.settings
+1225,2022/07/28,Tummoc,318,3,Yes,No,org.transhelp.bykerr
+1226,2022/07/28,Uber,77,1,Yes,No,com.ubercab
+1227,2022/07/28,Samsung capture,10,1,No,Yes,com.samsung.android.app.smartcapture
+1228,2022/07/28,Gmail,67,4,Yes,No,com.google.android.gm
+1229,2022/07/28,Chrome,2351,28,Yes,No,com.android.chrome
+1230,2022/07/28,Cricbuzz,1420,16,Yes,No,com.cricbuzz.android
+1231,2022/07/28,Keep notes,117,4,Yes,No,com.google.android.keep
+1232,2022/07/28,Finder,6,1,Yes,No,com.samsung.android.app.galaxyfinder
+1233,2022/07/28,Pikashow,13975,4,Yes,No,com.offshore.pikachu
+1234,2022/07/28,Files,6,2,No,Yes,com.google.android.documentsui
+1235,2022/07/28,Google Play services,1,1,No,Yes,com.google.android.gms
+1236,2022/07/28,Twitter,2206,26,Yes,No,com.twitter.android
+1237,2022/07/28,GPay,100,2,Yes,No,com.google.android.apps.nbu.paisa.user
+1238,2022/07/28,Phone,19,4,Yes,No,com.samsung.android.dialer
+1239,2022/07/28,Contacts,6,1,Yes,No,com.samsung.android.app.contacts
+1240,2022/07/28,Google Play Store,149,6,Yes,No,com.android.vending
+1241,2022/07/28,Bumble,2057,21,Yes,No,com.bumble.app
+1242,2022/07/28,Clock,39,3,Yes,No,com.sec.android.app.clockpackage
+1243,2022/07/28,WhatsApp,3746,20,Yes,No,com.whatsapp
+1244,2022/07/28,YouTube Vanced,722,3,Yes,No,com.vanced.android.youtube
+1245,2022/07/28,Camera,1,1,Yes,No,com.sec.android.app.camera
+1246,2022/07/28,Call,1157,2,Yes,No,com.samsung.android.incallui
+1247,2022/07/28,Package installer,8,1,No,Yes,com.google.android.packageinstaller
+1248,2022/07/28,Rapido,23,1,Yes,No,com.rapido.passenger
+1249,2022/07/28,FanCode,836,1,Yes,No,com.dream11sportsguru
+1250,2022/07/28,Tinder,664,7,Yes,No,com.tinder
+1251,2022/07/28,Call settings,3,1,No,Yes,com.samsung.android.app.telephonyui
+1252,2022/07/28,Telegram,11,2,Yes,No,org.telegram.messenger
+1253,2022/07/28,Google,0,1,Yes,No,com.google.android.googlequicksearchbox
+1254,2022/07/28,Gboard,1,3,Yes,No,com.google.android.inputmethod.latin
+1255,2022/07/28,Xodo Docs,123,2,Yes,No,com.xodo.pdf.reader
+1256,2022/07/28,StepSetGo,34,2,Yes,No,com.pepkit.ssg
+1257,2022/07/28,Relevel,28,1,Yes,No,com.relevel
+1258,2022/07/28,Permission controller,4,3,No,Yes,com.google.android.permissioncontroller
+1259,2022/07/28,Day To Day Expenses,45,1,Yes,No,com.seshadri.padmaja.expense
+1260,2022/07/28,Drive,39,2,Yes,No,com.google.android.apps.docs
+1261,2022/07/28,Maps,195,5,Yes,No,com.google.android.apps.maps
+1262,2022/07/29,Truecaller,22,2,Yes,No,com.truecaller
+1263,2022/07/29,Messages,169,4,Yes,No,com.samsung.android.messaging
+1264,2022/07/29,One UI Home,781,168,No,Yes,com.sec.android.app.launcher
+1265,2022/07/29,Cricbuzz,1453,21,Yes,No,com.cricbuzz.android
+1266,2022/07/29,Settings,39,9,Yes,No,com.android.settings
+1267,2022/07/29,Gmail,20,2,Yes,No,com.google.android.gm
+1268,2022/07/29,AccuBattery,52,2,Yes,No,com.digibites.accubattery
+1269,2022/07/29,Chrome,5006,40,Yes,No,com.android.chrome
+1270,2022/07/29,YourHour,117,1,Yes,No,com.mindefy.phoneaddiction.mobilepe
+1271,2022/07/29,Keep notes,20,1,Yes,No,com.google.android.keep
+1272,2022/07/29,Finder,16,2,Yes,No,com.samsung.android.app.galaxyfinder
+1273,2022/07/29,Gallery,36,1,Yes,No,com.sec.android.gallery3d
+1274,2022/07/29,Twitter,1855,14,Yes,No,com.twitter.android
+1275,2022/07/29,LinkedIn,42,1,Yes,No,com.linkedin.android
+1276,2022/07/29,GPay,299,8,Yes,No,com.google.android.apps.nbu.paisa.user
+1277,2022/07/29,Contacts,20,1,Yes,No,com.samsung.android.app.contacts
+1278,2022/07/29,Pikashow,198,4,Yes,No,com.offshore.pikachu
+1279,2022/07/29,Phone,82,14,Yes,No,com.samsung.android.dialer
+1280,2022/07/29,Bumble,159,2,Yes,No,com.bumble.app
+1281,2022/07/29,WhatsApp,824,21,Yes,No,com.whatsapp
+1282,2022/07/29,Naukri.com,326,1,Yes,No,naukriApp.appModules.login
+1283,2022/07/29,Rapido,1,1,Yes,No,com.rapido.passenger
+1284,2022/07/29,Call,2217,13,Yes,No,com.samsung.android.incallui
+1285,2022/07/29,Camera,17,1,Yes,No,com.sec.android.app.camera
+1286,2022/07/29,Tinder,276,4,Yes,No,com.tinder
+1287,2022/07/29,YouTube Vanced,7400,20,Yes,No,com.vanced.android.youtube
+1288,2022/07/29,Telegram,274,6,Yes,No,org.telegram.messenger
+1289,2022/07/29,FanCode,6914,24,Yes,No,com.dream11sportsguru
+1290,2022/07/29,Google,0,3,Yes,No,com.google.android.googlequicksearchbox
+1291,2022/07/29,Calculator,23,1,Yes,No,com.sec.android.app.popupcalculator
+1292,2022/07/29,Relevel,128,2,Yes,No,com.relevel
+1293,2022/07/29,Discord,236,6,Yes,No,com.discord

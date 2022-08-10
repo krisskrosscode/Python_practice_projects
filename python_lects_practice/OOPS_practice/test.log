@@ -1,0 +1,246 @@
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:------------------<<<   new program    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number 1
+INFO:root:starting to add number 2
+INFO:root:starting to add number 34
+INFO:root:starting to add number 5
+INFO:root:sum done... ans = 42
+INFO:root:------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number 1
+INFO:root:starting to add number 2
+INFO:root:starting to add number 34
+INFO:root:starting to add number 5
+INFO:root:			sum done... ans = 42
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number 1
+INFO:root:starting to add number 4
+INFO:root:starting to add number 6
+INFO:root:starting to add number 8
+INFO:root:starting to add number 9
+INFO:root:starting to add number 900
+INFO:root:starting to add number 2
+INFO:root:starting to add number 34
+INFO:root:starting to add number 5
+INFO:root:			sum done... ans = 969
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number 1
+INFO:root:cumulative sum : 1
+INFO:root:starting to add number 4
+INFO:root:cumulative sum : 5
+INFO:root:starting to add number 6
+INFO:root:cumulative sum : 11
+INFO:root:starting to add number 8
+INFO:root:cumulative sum : 19
+INFO:root:starting to add number 9
+INFO:root:cumulative sum : 28
+INFO:root:starting to add number 900
+INFO:root:cumulative sum : 928
+INFO:root:starting to add number 2
+INFO:root:cumulative sum : 930
+INFO:root:starting to add number 34
+INFO:root:cumulative sum : 964
+INFO:root:starting to add number 5
+INFO:root:cumulative sum : 969
+INFO:root:			sum done... ans = 969
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number 1
+INFO:root:cumulative sum : 1
+INFO:root:starting to add number 4
+INFO:root:cumulative sum : 5
+INFO:root:starting to add number 6
+INFO:root:cumulative sum : 11
+INFO:root:starting to add number 8
+INFO:root:cumulative sum : 19
+INFO:root:starting to add number 9
+INFO:root:cumulative sum : 28
+INFO:root:starting to add number 900
+INFO:root:cumulative sum : 928
+INFO:root:starting to add number 2
+INFO:root:cumulative sum : 930
+INFO:root:starting to add number 34
+INFO:root:cumulative sum : 964
+INFO:root:starting to add number 5
+INFO:root:cumulative sum : 969
+INFO:root:			sum done... ans = 969
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number 1
+INFO:root:cumulative sum : 1
+INFO:root:starting to add number 4
+INFO:root:cumulative sum : 5
+INFO:root:starting to add number 6
+INFO:root:cumulative sum : 11
+INFO:root:starting to add number 8
+INFO:root:cumulative sum : 19
+INFO:root:starting to add number 9
+INFO:root:cumulative sum : 28
+INFO:root:starting to add number 900
+INFO:root:cumulative sum : 928
+INFO:root:starting to add number 2
+INFO:root:cumulative sum : 930
+INFO:root:starting to add number 34
+INFO:root:cumulative sum : 964
+INFO:root:starting to add number 5
+INFO:root:cumulative sum : 969
+INFO:root:			sum done... ans = 969
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number 1
+INFO:root:cumulative sum : 1
+INFO:root:starting to add number 4
+INFO:root:cumulative sum : 5
+INFO:root:starting to add number 6
+INFO:root:cumulative sum : 11
+INFO:root:starting to add number 8
+INFO:root:cumulative sum : 19
+INFO:root:starting to add number 9
+INFO:root:cumulative sum : 28
+INFO:root:starting to add number 900
+INFO:root:cumulative sum : 928
+INFO:root:starting to add number 2
+INFO:root:cumulative sum : 930
+INFO:root:starting to add number 34
+INFO:root:cumulative sum : 964
+INFO:root:starting to add number 5
+INFO:root:cumulative sum : 969
+INFO:root:			sum done... ans = 969
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number 1
+INFO:root:cumulative sum : 1
+INFO:root:starting to add number 4
+INFO:root:cumulative sum : 5
+INFO:root:starting to add number 6
+INFO:root:cumulative sum : 11
+INFO:root:starting to add number 8
+INFO:root:cumulative sum : 19
+INFO:root:starting to add number 9
+INFO:root:cumulative sum : 28
+INFO:root:starting to add number 900
+INFO:root:cumulative sum : 928
+INFO:root:starting to add number 2
+INFO:root:cumulative sum : 930
+INFO:root:starting to add number 34
+INFO:root:cumulative sum : 964
+INFO:root:starting to add number 5
+INFO:root:cumulative sum : 969
+INFO:root:			sum done... ans = 969
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number 1
+INFO:root:cumulative sum : 1
+INFO:root:starting to add number 4
+INFO:root:cumulative sum : 5
+INFO:root:starting to add number 6
+INFO:root:cumulative sum : 11
+INFO:root:starting to add number 8
+INFO:root:cumulative sum : 19
+INFO:root:starting to add number 9
+INFO:root:cumulative sum : 28
+INFO:root:starting to add number 900
+INFO:root:cumulative sum : 928
+INFO:root:starting to add number 2
+INFO:root:cumulative sum : 930
+INFO:root:starting to add number 34
+INFO:root:cumulative sum : 964
+INFO:root:starting to add number 5
+INFO:root:cumulative sum : 969
+INFO:root:			sum done... ans = 969
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number 1
+INFO:root:cumulative sum : 1
+INFO:root:starting to add number 4
+INFO:root:cumulative sum : 5
+INFO:root:starting to add number 6
+INFO:root:cumulative sum : 11
+INFO:root:starting to add number 8
+INFO:root:cumulative sum : 19
+INFO:root:starting to add number 9
+INFO:root:cumulative sum : 28
+INFO:root:starting to add number 900
+INFO:root:cumulative sum : 928
+INFO:root:starting to add number 2
+INFO:root:cumulative sum : 930
+INFO:root:starting to add number 34
+INFO:root:cumulative sum : 964
+INFO:root:starting to add number 5
+INFO:root:cumulative sum : 969
+INFO:root:			sum done... ans = 969
+INFO:root:
+
+------------------<<<   new instance    >>>----------------
+INFO:root:starting to add number fsa
+DEBUG:root:bhai string ka int ke sath addition nahi karte
+ERROR:root:unsupported operand type(s) for +=: 'int' and 'str'

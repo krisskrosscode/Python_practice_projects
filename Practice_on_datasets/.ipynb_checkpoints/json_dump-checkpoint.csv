@@ -1,0 +1,110 @@
+,url,repository_url,labels_url,comments_url,events_url,html_url,id,node_id,number,title,user,labels,state,locked,assignee,assignees,milestone,comments,created_at,updated_at,closed_at,author_association,active_lock_reason,body,reactions,timeline_url,performed_via_github_app,state_reason,draft,pull_request
+0,https://api.github.com/repos/pandas-dev/pandas/issues/47941,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/47941/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/47941/comments,https://api.github.com/repos/pandas-dev/pandas/issues/47941/events,https://github.com/pandas-dev/pandas/issues/47941,1326954849,I_kwDOAA0YD85PF7lh,47941,BUG: union of lists of DatetimeIndex generates ValueErrors,"{'login': 'btodac', 'id': 45459748, 'node_id': 'MDQ6VXNlcjQ1NDU5NzQ4', 'avatar_url': 'https://avatars.githubusercontent.com/u/45459748?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/btodac', 'html_url': 'https://github.com/btodac', 'followers_url': 'https://api.github.com/users/btodac/followers', 'following_url': 'https://api.github.com/users/btodac/following{/other_user}', 'gists_url': 'https://api.github.com/users/btodac/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/btodac/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/btodac/subscriptions', 'organizations_url': 'https://api.github.com/users/btodac/orgs', 'repos_url': 'https://api.github.com/users/btodac/repos', 'events_url': 'https://api.github.com/users/btodac/events{/privacy}', 'received_events_url': 'https://api.github.com/users/btodac/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 1954720290, 'node_id': 'MDU6TGFiZWwxOTU0NzIwMjkw', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Needs%20Triage', 'name': 'Needs Triage', 'color': '0052cc', 'default': False, 'description': 'Issue that has not been reviewed by a pandas team member'}]",open,False,,[],,0,2022-08-03T09:44:48Z,2022-08-03T09:44:48Z,,NONE,,"### Pandas version checks
+
+- [X] I have checked that this issue has not already been reported.
+
+- [X] I have confirmed this bug exists on the [latest version](https://pandas.pydata.org/docs/whatsnew/index.html) of pandas.
+
+- [ ] I have confirmed this bug exists on the main branch of pandas.
+
+
+### Reproducible Example
+
+```python
+import pandas as pd
+a = pd.date_range(start=pd.Timestamp.today() - pd.Timedelta(days=30), end=pd.Timestamp.today())
+b = [a[:5], a[5:10], a[5:7], a[10:]]
+b[0].union(b[1:])
+# and
+#b[0].union(b[1:2])
+```
+
+
+### Issue Description
+
+The first example fails with ValueError: Lengths must match to compare, when performing a monotonic data check. (pandas/core/indexes/base.py"", line 6672, in _cmp_method raise ValueError(""Lengths must match to compare"")
+The second example fails with ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), when performing a monotonic data check (File ""pandas/_libs/algos.pyx"", line 754, in pandas._libs.algos.is_monotonic).
+
+`union_many()` works fine but generates a soon to be deprecated warning
+
+### Expected Behavior
+
+import pandas as pd
+a = pd.date_range(start=pd.Timestamp.today() - pd.Timedelta(days=30), end=pd.Timestamp.today())
+b = [a[:5], a[5:10], a[5:7], a[10:]]
+b[0].union_many(b[1:])
+
+### Installed Versions
+
+<details>
+
+INSTALLED VERSIONS
+------------------
+commit           : 06d230151e6f18fdb8139d09abf539867a8cd481
+python           : 3.10.4.final.0
+python-bits      : 64
+OS               : Linux
+OS-release       : 5.4.0-122-generic
+Version          : #138-Ubuntu SMP Wed Jun 22 15:00:31 UTC 2022
+machine          : x86_64
+processor        : x86_64
+byteorder        : little
+LC_ALL           : None
+LANG             : en_GB.UTF-8
+LOCALE           : en_GB.UTF-8
+
+pandas           : 1.4.1
+numpy            : 1.22.3
+pytz             : 2022.1
+dateutil         : 2.8.2
+pip              : 22.0.4
+setuptools       : 60.10.0
+Cython           : None
+pytest           : None
+hypothesis       : None
+sphinx           : 4.4.0
+blosc            : None
+feather          : None
+xlsxwriter       : None
+lxml.etree       : 4.8.0
+html5lib         : None
+pymysql          : None
+psycopg2         : None
+jinja2           : 3.1.0
+IPython          : 7.32.0
+pandas_datareader: 0.10.0
+bs4              : 4.10.0
+bottleneck       : None
+fastparquet      : None
+fsspec           : None
+gcsfs            : None
+matplotlib       : 3.5.1
+numba            : None
+numexpr          : None
+odfpy            : None
+openpyxl         : None
+pandas_gbq       : None
+pyarrow          : None
+pyreadstat       : None
+pyxlsb           : None
+s3fs             : None
+scipy            : 1.8.0
+sqlalchemy       : None
+tables           : None
+tabulate         : None
+xarray           : None
+xlrd             : None
+xlwt             : None
+zstandard        : None
+
+</details>
+","{'url': 'https://api.github.com/repos/pandas-dev/pandas/issues/47941/reactions', 'total_count': 0, '+1': 0, '-1': 0, 'laugh': 0, 'hooray': 0, 'confused': 0, 'heart': 0, 'rocket': 0, 'eyes': 0}",https://api.github.com/repos/pandas-dev/pandas/issues/47941/timeline,,,,
+1,https://api.github.com/repos/pandas-dev/pandas/issues/47940,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/47940/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/47940/comments,https://api.github.com/repos/pandas-dev/pandas/issues/47940/events,https://github.com/pandas-dev/pandas/pull/47940,1326765938,PR_kwDOAA0YD848jZeY,47940,DOC: more exchange -> interchange renames,"{'login': 'jorisvandenbossche', 'id': 1020496, 'node_id': 'MDQ6VXNlcjEwMjA0OTY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1020496?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jorisvandenbossche', 'html_url': 'https://github.com/jorisvandenbossche', 'followers_url': 'https://api.github.com/users/jorisvandenbossche/followers', 'following_url': 'https://api.github.com/users/jorisvandenbossche/following{/other_user}', 'gists_url': 'https://api.github.com/users/jorisvandenbossche/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jorisvandenbossche/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jorisvandenbossche/subscriptions', 'organizations_url': 'https://api.github.com/users/jorisvandenbossche/orgs', 'repos_url': 'https://api.github.com/users/jorisvandenbossche/repos', 'events_url': 'https://api.github.com/users/jorisvandenbossche/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jorisvandenbossche/received_events', 'type': 'User', 'site_admin': False}","[{'id': 4344388253, 'node_id': 'LA_kwDOAA0YD88AAAABAvIanQ', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Interchange', 'name': 'Interchange', 'color': '130443', 'default': False, 'description': 'Dataframe Interchange Protocol'}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/92', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/92', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/92/labels', 'id': 7530006, 'node_id': 'MI_kwDOAA0YD84AcuYW', 'number': 92, 'title': '1.5', 'description': '', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 74, 'closed_issues': 1235, 'state': 'open', 'created_at': '2021-12-31T21:51:13Z', 'updated_at': '2022-08-03T06:56:55Z', 'due_on': '2022-07-31T07:00:00Z', 'closed_at': None}",0,2022-08-03T06:56:47Z,2022-08-03T06:56:59Z,,MEMBER,,A few more renames as follow-up on https://github.com/pandas-dev/pandas/pull/47888,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/issues/47940/reactions', 'total_count': 0, '+1': 0, '-1': 0, 'laugh': 0, 'hooray': 0, 'confused': 0, 'heart': 0, 'rocket': 0, 'eyes': 0}",https://api.github.com/repos/pandas-dev/pandas/issues/47940/timeline,,,False,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/47940', 'html_url': 'https://github.com/pandas-dev/pandas/pull/47940', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/47940.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/47940.patch', 'merged_at': None}"
+2,https://api.github.com/repos/pandas-dev/pandas/issues/47939,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/47939/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/47939/comments,https://api.github.com/repos/pandas-dev/pandas/issues/47939/events,https://github.com/pandas-dev/pandas/pull/47939,1326760809,PR_kwDOAA0YD848jYaq,47939,BUG: avoid relying on external packaging package in interchange protocol,"{'login': 'jorisvandenbossche', 'id': 1020496, 'node_id': 'MDQ6VXNlcjEwMjA0OTY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1020496?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jorisvandenbossche', 'html_url': 'https://github.com/jorisvandenbossche', 'followers_url': 'https://api.github.com/users/jorisvandenbossche/followers', 'following_url': 'https://api.github.com/users/jorisvandenbossche/following{/other_user}', 'gists_url': 'https://api.github.com/users/jorisvandenbossche/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jorisvandenbossche/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jorisvandenbossche/subscriptions', 'organizations_url': 'https://api.github.com/users/jorisvandenbossche/orgs', 'repos_url': 'https://api.github.com/users/jorisvandenbossche/repos', 'events_url': 'https://api.github.com/users/jorisvandenbossche/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jorisvandenbossche/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 527603109, 'node_id': 'MDU6TGFiZWw1Mjc2MDMxMDk=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Dependencies', 'name': 'Dependencies', 'color': 'd93f0b', 'default': False, 'description': 'Required and optional dependencies'}]",open,False,,[],"{'url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/92', 'html_url': 'https://github.com/pandas-dev/pandas/milestone/92', 'labels_url': 'https://api.github.com/repos/pandas-dev/pandas/milestones/92/labels', 'id': 7530006, 'node_id': 'MI_kwDOAA0YD84AcuYW', 'number': 92, 'title': '1.5', 'description': '', 'creator': {'login': 'jreback', 'id': 953992, 'node_id': 'MDQ6VXNlcjk1Mzk5Mg==', 'avatar_url': 'https://avatars.githubusercontent.com/u/953992?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jreback', 'html_url': 'https://github.com/jreback', 'followers_url': 'https://api.github.com/users/jreback/followers', 'following_url': 'https://api.github.com/users/jreback/following{/other_user}', 'gists_url': 'https://api.github.com/users/jreback/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jreback/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jreback/subscriptions', 'organizations_url': 'https://api.github.com/users/jreback/orgs', 'repos_url': 'https://api.github.com/users/jreback/repos', 'events_url': 'https://api.github.com/users/jreback/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jreback/received_events', 'type': 'User', 'site_admin': False}, 'open_issues': 74, 'closed_issues': 1235, 'state': 'open', 'created_at': '2021-12-31T21:51:13Z', 'updated_at': '2022-08-03T06:56:55Z', 'due_on': '2022-07-31T07:00:00Z', 'closed_at': None}",0,2022-08-03T06:51:03Z,2022-08-03T06:51:03Z,,MEMBER,,"I noticed this by accident, and we have a vendored version of `packaging` that we otherwise use internally. 
+
+(this might be a good case to add a code check for? cc @MarcoGorelli)","{'url': 'https://api.github.com/repos/pandas-dev/pandas/issues/47939/reactions', 'total_count': 0, '+1': 0, '-1': 0, 'laugh': 0, 'hooray': 0, 'confused': 0, 'heart': 0, 'rocket': 0, 'eyes': 0}",https://api.github.com/repos/pandas-dev/pandas/issues/47939/timeline,,,False,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/47939', 'html_url': 'https://github.com/pandas-dev/pandas/pull/47939', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/47939.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/47939.patch', 'merged_at': None}"
+3,https://api.github.com/repos/pandas-dev/pandas/issues/47938,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/47938/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/47938/comments,https://api.github.com/repos/pandas-dev/pandas/issues/47938/events,https://github.com/pandas-dev/pandas/pull/47938,1326760391,PR_kwDOAA0YD848jYVG,47938,WEB: Accept PDEP-1,"{'login': 'datapythonista', 'id': 10058240, 'node_id': 'MDQ6VXNlcjEwMDU4MjQw', 'avatar_url': 'https://avatars.githubusercontent.com/u/10058240?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/datapythonista', 'html_url': 'https://github.com/datapythonista', 'followers_url': 'https://api.github.com/users/datapythonista/followers', 'following_url': 'https://api.github.com/users/datapythonista/following{/other_user}', 'gists_url': 'https://api.github.com/users/datapythonista/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/datapythonista/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/datapythonista/subscriptions', 'organizations_url': 'https://api.github.com/users/datapythonista/orgs', 'repos_url': 'https://api.github.com/users/datapythonista/repos', 'events_url': 'https://api.github.com/users/datapythonista/events{/privacy}', 'received_events_url': 'https://api.github.com/users/datapythonista/received_events', 'type': 'User', 'site_admin': False}","[{'id': 1508144531, 'node_id': 'MDU6TGFiZWwxNTA4MTQ0NTMx', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Web', 'name': 'Web', 'color': '23ef97', 'default': False, 'description': 'pandas website'}, {'id': 4253279386, 'node_id': 'LA_kwDOAA0YD879g-Sa', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/PDEP', 'name': 'PDEP', 'color': '4B02F8', 'default': False, 'description': 'pandas enhancement proposal'}]",open,False,,[],,0,2022-08-03T06:50:35Z,2022-08-03T06:50:35Z,,MEMBER,,I forgot to accept PDEP-1 before merging #47444,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/issues/47938/reactions', 'total_count': 0, '+1': 0, '-1': 0, 'laugh': 0, 'hooray': 0, 'confused': 0, 'heart': 0, 'rocket': 0, 'eyes': 0}",https://api.github.com/repos/pandas-dev/pandas/issues/47938/timeline,,,False,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/47938', 'html_url': 'https://github.com/pandas-dev/pandas/pull/47938', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/47938.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/47938.patch', 'merged_at': None}"
+4,https://api.github.com/repos/pandas-dev/pandas/issues/47937,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/47937/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/47937/comments,https://api.github.com/repos/pandas-dev/pandas/issues/47937/events,https://github.com/pandas-dev/pandas/pull/47937,1326736134,PR_kwDOAA0YD848jTMa,47937,WARN : extended stack level check to include all classes of warnings ,"{'login': 'shourya5', 'id': 73142986, 'node_id': 'MDQ6VXNlcjczMTQyOTg2', 'avatar_url': 'https://avatars.githubusercontent.com/u/73142986?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/shourya5', 'html_url': 'https://github.com/shourya5', 'followers_url': 'https://api.github.com/users/shourya5/followers', 'following_url': 'https://api.github.com/users/shourya5/following{/other_user}', 'gists_url': 'https://api.github.com/users/shourya5/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/shourya5/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/shourya5/subscriptions', 'organizations_url': 'https://api.github.com/users/shourya5/orgs', 'repos_url': 'https://api.github.com/users/shourya5/repos', 'events_url': 'https://api.github.com/users/shourya5/events{/privacy}', 'received_events_url': 'https://api.github.com/users/shourya5/received_events', 'type': 'User', 'site_admin': False}",[],open,False,,[],,0,2022-08-03T06:22:13Z,2022-08-03T06:24:40Z,,NONE,,"- [x] closes #47919 
+- [ ] All [code checks passed](https://pandas.pydata.org/pandas-docs/dev/development/contributing_codebase.html#pre-commit).
+
+","{'url': 'https://api.github.com/repos/pandas-dev/pandas/issues/47937/reactions', 'total_count': 0, '+1': 0, '-1': 0, 'laugh': 0, 'hooray': 0, 'confused': 0, 'heart': 0, 'rocket': 0, 'eyes': 0}",https://api.github.com/repos/pandas-dev/pandas/issues/47937/timeline,,,False,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/47937', 'html_url': 'https://github.com/pandas-dev/pandas/pull/47937', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/47937.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/47937.patch', 'merged_at': None}"
